@@ -1,0 +1,2001 @@
+customer_id,acquisition_date,segment,age,city,is_active
+CUST_0001,2024-06-22,Medium Value,42,Los Angeles,True
+CUST_0002,2022-02-20,Medium Value,53,New York,True
+CUST_0003,2023-08-27,High Value,53,Phoenix,True
+CUST_0004,2024-11-17,High Value,44,Houston,True
+CUST_0005,2022-03-13,Low Value,29,Houston,True
+CUST_0006,2022-08-12,Medium Value,29,Chicago,True
+CUST_0007,2022-04-14,Medium Value,22,Los Angeles,True
+CUST_0008,2022-05-17,Medium Value,38,Dallas,True
+CUST_0009,2023-04-07,Medium Value,35,Los Angeles,True
+CUST_0010,2022-01-15,Low Value,18,San Jose,True
+CUST_0011,2022-02-26,Low Value,27,San Antonio,True
+CUST_0012,2022-06-24,Low Value,31,New York,True
+CUST_0013,2022-07-25,High Value,44,New York,True
+CUST_0014,2022-08-09,Medium Value,20,Los Angeles,True
+CUST_0015,2022-03-03,Low Value,43,Houston,True
+CUST_0016,2022-03-07,High Value,37,Houston,True
+CUST_0017,2022-04-29,High Value,18,Dallas,True
+CUST_0018,2022-05-13,Low Value,26,San Jose,True
+CUST_0019,2022-08-23,Medium Value,38,New York,True
+CUST_0020,2024-12-31,High Value,30,Dallas,True
+CUST_0021,2022-03-08,Low Value,47,Houston,True
+CUST_0022,2022-01-24,Low Value,46,Dallas,True
+CUST_0023,2022-02-06,Medium Value,38,San Antonio,True
+CUST_0024,2022-01-20,Medium Value,46,Houston,True
+CUST_0025,2022-04-28,Medium Value,44,San Diego,True
+CUST_0026,2022-07-11,One-time Buyers,51,San Jose,True
+CUST_0027,2023-01-10,High Value,39,Phoenix,True
+CUST_0028,2022-07-24,Low Value,53,New York,True
+CUST_0029,2022-06-17,Low Value,36,Chicago,True
+CUST_0030,2022-08-02,Medium Value,31,San Antonio,True
+CUST_0031,2022-03-28,One-time Buyers,52,Philadelphia,True
+CUST_0032,2022-01-25,Medium Value,28,Phoenix,True
+CUST_0033,2022-02-22,Medium Value,45,Chicago,True
+CUST_0034,2022-03-03,Low Value,38,Houston,True
+CUST_0035,2022-08-21,One-time Buyers,26,Philadelphia,True
+CUST_0036,2022-06-17,Medium Value,31,Los Angeles,True
+CUST_0037,2023-08-15,Low Value,35,Los Angeles,True
+CUST_0038,2022-03-17,Medium Value,32,San Antonio,True
+CUST_0039,2022-05-04,High Value,33,Los Angeles,True
+CUST_0040,2022-12-31,Low Value,39,Philadelphia,True
+CUST_0041,2024-12-06,Medium Value,18,Philadelphia,True
+CUST_0042,2022-01-12,Medium Value,34,San Jose,True
+CUST_0043,2022-07-29,Low Value,32,Phoenix,True
+CUST_0044,2022-07-21,High Value,38,New York,True
+CUST_0045,2022-03-25,One-time Buyers,48,San Diego,True
+CUST_0046,2023-01-26,Medium Value,44,Dallas,True
+CUST_0047,2022-10-28,Medium Value,42,Los Angeles,True
+CUST_0048,2023-06-26,High Value,61,San Antonio,True
+CUST_0049,2022-03-03,Medium Value,36,Los Angeles,True
+CUST_0050,2022-01-06,Low Value,28,Dallas,True
+CUST_0051,2022-03-19,Low Value,22,Phoenix,True
+CUST_0052,2022-05-27,Low Value,40,San Jose,True
+CUST_0053,2022-02-14,One-time Buyers,25,Philadelphia,True
+CUST_0054,2023-09-22,One-time Buyers,31,San Jose,True
+CUST_0055,2022-11-20,Medium Value,37,Houston,True
+CUST_0056,2022-03-25,Low Value,50,Los Angeles,True
+CUST_0057,2023-11-14,High Value,38,New York,True
+CUST_0058,2022-05-09,Medium Value,44,Houston,True
+CUST_0059,2023-11-14,Low Value,38,Phoenix,True
+CUST_0060,2022-01-27,Low Value,39,Los Angeles,True
+CUST_0061,2023-11-18,Medium Value,38,Houston,True
+CUST_0062,2022-02-22,High Value,26,Los Angeles,True
+CUST_0063,2022-12-20,Low Value,20,San Antonio,True
+CUST_0064,2022-03-23,Low Value,42,Phoenix,True
+CUST_0065,2023-02-16,Medium Value,46,San Diego,True
+CUST_0066,2022-09-10,Low Value,39,Philadelphia,True
+CUST_0067,2022-05-18,High Value,24,Chicago,True
+CUST_0068,2022-05-30,One-time Buyers,25,Philadelphia,True
+CUST_0069,2022-10-27,One-time Buyers,35,Philadelphia,True
+CUST_0070,2022-07-23,Low Value,52,Houston,True
+CUST_0071,2023-01-20,Medium Value,22,Phoenix,True
+CUST_0072,2024-07-12,One-time Buyers,40,Los Angeles,True
+CUST_0073,2022-05-19,One-time Buyers,40,San Jose,True
+CUST_0074,2023-07-30,One-time Buyers,34,Chicago,True
+CUST_0075,2022-05-26,Medium Value,29,Dallas,True
+CUST_0076,2022-09-02,Medium Value,45,Houston,True
+CUST_0077,2022-12-24,One-time Buyers,24,Chicago,True
+CUST_0078,2024-12-31,Low Value,36,San Diego,True
+CUST_0079,2022-08-08,High Value,39,San Antonio,True
+CUST_0080,2022-12-30,Low Value,41,Phoenix,True
+CUST_0081,2022-04-15,Medium Value,41,Dallas,True
+CUST_0082,2024-01-04,One-time Buyers,41,Houston,True
+CUST_0083,2022-07-28,Low Value,41,Philadelphia,True
+CUST_0084,2023-04-22,Low Value,48,New York,True
+CUST_0085,2022-05-04,One-time Buyers,25,Houston,True
+CUST_0086,2022-01-11,Low Value,32,New York,True
+CUST_0087,2022-08-23,Medium Value,43,Philadelphia,True
+CUST_0088,2022-01-12,High Value,18,San Antonio,True
+CUST_0089,2022-05-14,Low Value,35,Phoenix,True
+CUST_0090,2022-03-14,Low Value,22,Los Angeles,True
+CUST_0091,2022-01-27,Low Value,35,Houston,True
+CUST_0092,2022-11-01,Low Value,27,San Jose,True
+CUST_0093,2024-12-31,Low Value,18,Philadelphia,True
+CUST_0094,2022-04-05,Low Value,37,Houston,True
+CUST_0095,2022-01-25,Medium Value,41,San Diego,True
+CUST_0096,2022-02-27,Medium Value,45,San Antonio,True
+CUST_0097,2022-03-28,Medium Value,56,San Diego,True
+CUST_0098,2022-04-09,Low Value,39,Chicago,True
+CUST_0099,2023-02-06,One-time Buyers,60,Phoenix,True
+CUST_0100,2022-03-27,Medium Value,47,Chicago,True
+CUST_0101,2023-03-02,Medium Value,40,Houston,True
+CUST_0102,2022-01-31,Medium Value,44,Dallas,True
+CUST_0103,2022-07-12,Medium Value,31,Dallas,True
+CUST_0104,2022-10-15,Medium Value,20,Phoenix,True
+CUST_0105,2022-01-14,Low Value,52,San Jose,True
+CUST_0106,2023-08-06,Low Value,18,San Antonio,True
+CUST_0107,2022-02-23,Low Value,37,San Jose,True
+CUST_0108,2022-09-22,High Value,27,San Antonio,True
+CUST_0109,2022-09-15,One-time Buyers,54,Philadelphia,True
+CUST_0110,2022-08-25,Medium Value,20,Houston,True
+CUST_0111,2022-05-27,One-time Buyers,38,Chicago,True
+CUST_0112,2022-04-26,High Value,27,Dallas,True
+CUST_0113,2022-01-08,Low Value,27,San Diego,True
+CUST_0114,2022-12-24,High Value,45,Los Angeles,True
+CUST_0115,2023-09-22,Low Value,44,New York,True
+CUST_0116,2022-02-28,Medium Value,42,Los Angeles,True
+CUST_0117,2023-05-09,Low Value,34,Chicago,True
+CUST_0118,2023-03-26,Medium Value,36,Chicago,True
+CUST_0119,2024-03-12,Medium Value,32,San Antonio,True
+CUST_0120,2023-02-26,Low Value,48,San Jose,True
+CUST_0121,2023-11-30,High Value,50,Los Angeles,True
+CUST_0122,2023-11-09,Medium Value,35,San Antonio,True
+CUST_0123,2022-01-04,Medium Value,38,San Antonio,True
+CUST_0124,2022-09-13,One-time Buyers,33,San Jose,True
+CUST_0125,2022-06-28,Low Value,22,San Diego,True
+CUST_0126,2023-02-23,Low Value,20,Dallas,True
+CUST_0127,2023-04-13,Low Value,34,Phoenix,True
+CUST_0128,2022-08-28,High Value,24,Dallas,True
+CUST_0129,2023-10-18,Medium Value,25,New York,True
+CUST_0130,2023-03-07,High Value,31,Los Angeles,True
+CUST_0131,2022-02-01,Low Value,37,Dallas,True
+CUST_0132,2023-06-02,High Value,28,Phoenix,True
+CUST_0133,2022-01-26,Low Value,18,Philadelphia,True
+CUST_0134,2024-06-01,Low Value,18,Los Angeles,True
+CUST_0135,2023-02-24,One-time Buyers,26,Phoenix,True
+CUST_0136,2022-09-03,Low Value,32,San Antonio,True
+CUST_0137,2023-12-12,Medium Value,34,Chicago,True
+CUST_0138,2022-07-09,High Value,22,San Diego,True
+CUST_0139,2022-02-07,High Value,38,New York,True
+CUST_0140,2022-09-20,Low Value,25,Phoenix,True
+CUST_0141,2022-05-21,One-time Buyers,43,Dallas,True
+CUST_0142,2024-09-17,Medium Value,30,Chicago,True
+CUST_0143,2024-11-16,High Value,37,Dallas,True
+CUST_0144,2022-08-31,High Value,35,Los Angeles,True
+CUST_0145,2022-08-11,One-time Buyers,52,Phoenix,True
+CUST_0146,2022-10-24,Medium Value,46,Dallas,True
+CUST_0147,2023-11-26,Low Value,61,San Jose,True
+CUST_0148,2022-03-04,Medium Value,25,Houston,True
+CUST_0149,2022-05-11,Medium Value,25,Chicago,True
+CUST_0150,2024-12-31,One-time Buyers,36,Philadelphia,True
+CUST_0151,2022-08-19,Low Value,46,Chicago,True
+CUST_0152,2022-02-23,Low Value,28,Dallas,True
+CUST_0153,2023-06-03,One-time Buyers,19,Dallas,True
+CUST_0154,2023-08-27,One-time Buyers,56,New York,True
+CUST_0155,2022-01-09,High Value,49,San Jose,True
+CUST_0156,2022-02-18,One-time Buyers,29,Philadelphia,True
+CUST_0157,2022-05-24,Low Value,33,San Diego,True
+CUST_0158,2022-04-06,Medium Value,49,New York,True
+CUST_0159,2023-08-24,High Value,35,Los Angeles,True
+CUST_0160,2024-05-18,Low Value,35,Philadelphia,True
+CUST_0161,2022-03-27,Low Value,22,Phoenix,True
+CUST_0162,2022-10-07,One-time Buyers,33,Houston,True
+CUST_0163,2022-12-01,Medium Value,18,New York,True
+CUST_0164,2022-12-01,High Value,50,Houston,True
+CUST_0165,2023-03-20,Low Value,49,San Jose,True
+CUST_0166,2022-09-04,Low Value,35,Los Angeles,True
+CUST_0167,2022-06-04,One-time Buyers,42,Los Angeles,True
+CUST_0168,2022-03-13,Low Value,51,San Diego,True
+CUST_0169,2022-01-05,High Value,47,Los Angeles,True
+CUST_0170,2022-06-22,Medium Value,18,Dallas,True
+CUST_0171,2022-05-09,One-time Buyers,53,Chicago,True
+CUST_0172,2022-10-19,Medium Value,35,Chicago,True
+CUST_0173,2024-06-14,One-time Buyers,18,San Diego,True
+CUST_0174,2024-12-31,Medium Value,34,Dallas,True
+CUST_0175,2022-04-30,Medium Value,19,Chicago,True
+CUST_0176,2022-02-11,High Value,43,Phoenix,True
+CUST_0177,2022-02-19,High Value,39,Dallas,True
+CUST_0178,2022-05-08,Medium Value,23,San Jose,True
+CUST_0179,2022-07-12,One-time Buyers,23,San Antonio,True
+CUST_0180,2022-01-13,Medium Value,41,Houston,True
+CUST_0181,2022-04-08,Medium Value,33,Dallas,True
+CUST_0182,2022-05-16,Medium Value,22,Houston,True
+CUST_0183,2022-12-18,Low Value,26,Phoenix,True
+CUST_0184,2024-02-01,One-time Buyers,37,San Antonio,True
+CUST_0185,2022-04-08,High Value,42,Philadelphia,True
+CUST_0186,2022-03-12,Medium Value,44,San Diego,True
+CUST_0187,2022-07-18,Medium Value,18,Dallas,True
+CUST_0188,2023-02-17,Medium Value,51,San Diego,True
+CUST_0189,2022-03-29,High Value,41,Los Angeles,True
+CUST_0190,2022-08-16,Low Value,38,Houston,True
+CUST_0191,2022-06-27,High Value,18,Houston,True
+CUST_0192,2022-05-23,Medium Value,37,Los Angeles,True
+CUST_0193,2022-04-27,High Value,27,Philadelphia,True
+CUST_0194,2023-10-26,High Value,22,New York,True
+CUST_0195,2022-12-07,Low Value,34,San Jose,True
+CUST_0196,2022-08-20,High Value,52,Dallas,True
+CUST_0197,2023-02-15,Low Value,22,Houston,True
+CUST_0198,2022-05-16,Medium Value,32,San Jose,True
+CUST_0199,2022-09-11,Low Value,18,Houston,True
+CUST_0200,2022-02-19,High Value,41,New York,True
+CUST_0201,2022-02-22,Medium Value,27,Los Angeles,True
+CUST_0202,2023-11-13,Medium Value,24,New York,True
+CUST_0203,2022-08-12,High Value,38,Houston,True
+CUST_0204,2022-06-02,High Value,34,Los Angeles,True
+CUST_0205,2023-08-25,One-time Buyers,28,New York,True
+CUST_0206,2022-11-28,Medium Value,44,Philadelphia,True
+CUST_0207,2022-09-02,One-time Buyers,18,Los Angeles,True
+CUST_0208,2022-03-04,Low Value,41,Dallas,True
+CUST_0209,2022-06-16,Medium Value,18,Houston,True
+CUST_0210,2022-10-10,High Value,35,Phoenix,True
+CUST_0211,2022-09-19,Medium Value,34,San Diego,True
+CUST_0212,2022-01-16,Low Value,20,Houston,True
+CUST_0213,2022-02-13,Medium Value,47,Dallas,True
+CUST_0214,2022-12-10,Medium Value,28,Chicago,True
+CUST_0215,2022-09-29,Low Value,18,San Jose,True
+CUST_0216,2024-03-06,Medium Value,25,San Jose,True
+CUST_0217,2024-10-02,Low Value,39,San Diego,True
+CUST_0218,2022-03-01,One-time Buyers,27,Houston,True
+CUST_0219,2023-02-10,High Value,49,San Diego,True
+CUST_0220,2023-04-21,High Value,38,San Antonio,True
+CUST_0221,2022-02-23,Medium Value,39,Houston,True
+CUST_0222,2022-08-11,Low Value,29,Los Angeles,True
+CUST_0223,2023-09-22,Medium Value,49,Los Angeles,True
+CUST_0224,2022-05-22,Medium Value,30,San Antonio,True
+CUST_0225,2022-04-18,Medium Value,35,Philadelphia,True
+CUST_0226,2023-11-21,Medium Value,55,San Antonio,True
+CUST_0227,2022-08-24,Medium Value,37,San Antonio,True
+CUST_0228,2024-04-23,High Value,44,San Diego,True
+CUST_0229,2022-05-03,Low Value,39,New York,True
+CUST_0230,2022-08-17,Low Value,30,Los Angeles,True
+CUST_0231,2023-04-12,One-time Buyers,29,New York,True
+CUST_0232,2023-02-13,Medium Value,24,San Antonio,True
+CUST_0233,2022-09-11,High Value,40,Philadelphia,True
+CUST_0234,2023-06-01,Medium Value,39,Los Angeles,True
+CUST_0235,2023-07-17,High Value,31,Houston,True
+CUST_0236,2022-02-18,Low Value,23,Houston,True
+CUST_0237,2023-01-20,Medium Value,45,Houston,True
+CUST_0238,2022-08-23,Low Value,51,Dallas,True
+CUST_0239,2022-05-08,Medium Value,18,San Diego,True
+CUST_0240,2024-06-01,Medium Value,52,Chicago,True
+CUST_0241,2022-09-22,Medium Value,64,San Antonio,True
+CUST_0242,2023-09-10,High Value,36,Chicago,True
+CUST_0243,2022-09-07,One-time Buyers,40,Phoenix,True
+CUST_0244,2022-02-19,Low Value,37,San Diego,True
+CUST_0245,2022-10-07,Low Value,54,Houston,True
+CUST_0246,2024-02-19,One-time Buyers,28,Los Angeles,True
+CUST_0247,2022-02-06,Medium Value,35,San Diego,True
+CUST_0248,2022-06-02,Low Value,48,Dallas,True
+CUST_0249,2022-05-03,High Value,22,Los Angeles,True
+CUST_0250,2024-01-28,Low Value,18,New York,True
+CUST_0251,2022-05-08,Medium Value,30,Dallas,True
+CUST_0252,2022-06-30,Medium Value,55,New York,True
+CUST_0253,2022-02-28,High Value,18,Los Angeles,True
+CUST_0254,2022-05-16,One-time Buyers,34,Houston,True
+CUST_0255,2022-10-28,Low Value,31,Chicago,True
+CUST_0256,2024-12-31,High Value,21,San Antonio,True
+CUST_0257,2022-09-29,Low Value,35,San Diego,True
+CUST_0258,2023-11-16,Medium Value,34,San Diego,True
+CUST_0259,2022-03-05,Medium Value,34,Houston,True
+CUST_0260,2022-01-21,Low Value,28,San Antonio,True
+CUST_0261,2022-07-01,Low Value,18,New York,True
+CUST_0262,2022-09-04,Medium Value,48,Chicago,True
+CUST_0263,2022-03-02,Medium Value,18,San Antonio,True
+CUST_0264,2022-06-07,Low Value,25,New York,True
+CUST_0265,2022-02-20,High Value,46,San Antonio,True
+CUST_0266,2022-03-17,High Value,50,Phoenix,True
+CUST_0267,2022-12-01,Medium Value,28,San Diego,True
+CUST_0268,2022-03-23,Low Value,40,Phoenix,True
+CUST_0269,2022-03-25,High Value,43,San Antonio,True
+CUST_0270,2022-06-01,Low Value,40,Dallas,True
+CUST_0271,2022-03-10,Low Value,42,San Diego,True
+CUST_0272,2022-01-27,High Value,31,Chicago,True
+CUST_0273,2022-01-09,Medium Value,38,Houston,True
+CUST_0274,2023-11-01,Medium Value,19,Phoenix,True
+CUST_0275,2022-05-06,Low Value,26,Houston,True
+CUST_0276,2022-04-04,Low Value,18,New York,True
+CUST_0277,2022-06-07,Low Value,18,San Jose,True
+CUST_0278,2024-06-08,Medium Value,55,Dallas,True
+CUST_0279,2022-02-15,Low Value,34,New York,True
+CUST_0280,2023-04-28,One-time Buyers,48,Philadelphia,True
+CUST_0281,2022-01-07,Medium Value,38,New York,True
+CUST_0282,2022-03-31,Low Value,18,New York,True
+CUST_0283,2023-06-25,High Value,35,San Jose,True
+CUST_0284,2022-04-06,Medium Value,39,San Diego,True
+CUST_0285,2024-01-08,High Value,37,Dallas,True
+CUST_0286,2022-08-31,Medium Value,23,Dallas,True
+CUST_0287,2023-06-16,Low Value,38,Chicago,True
+CUST_0288,2022-11-25,Low Value,46,New York,True
+CUST_0289,2024-01-08,Medium Value,18,Dallas,True
+CUST_0290,2022-01-15,Low Value,19,Los Angeles,True
+CUST_0291,2023-02-06,Medium Value,37,Chicago,True
+CUST_0292,2022-05-28,Medium Value,25,Los Angeles,True
+CUST_0293,2022-05-12,Medium Value,23,San Jose,True
+CUST_0294,2022-07-13,Low Value,47,Los Angeles,True
+CUST_0295,2024-04-08,Low Value,24,Houston,True
+CUST_0296,2022-04-02,High Value,43,San Antonio,True
+CUST_0297,2022-01-16,Low Value,65,Los Angeles,True
+CUST_0298,2023-03-19,Medium Value,33,San Jose,True
+CUST_0299,2022-01-24,High Value,34,Houston,True
+CUST_0300,2022-06-21,Low Value,56,San Jose,True
+CUST_0301,2023-05-28,Medium Value,42,San Jose,True
+CUST_0302,2022-09-25,Medium Value,46,New York,True
+CUST_0303,2022-01-29,Medium Value,34,San Jose,True
+CUST_0304,2022-08-23,Medium Value,42,Los Angeles,True
+CUST_0305,2023-01-31,One-time Buyers,41,San Antonio,True
+CUST_0306,2023-07-22,Low Value,47,San Jose,True
+CUST_0307,2022-07-21,Medium Value,40,San Jose,True
+CUST_0308,2022-09-09,Medium Value,37,Dallas,True
+CUST_0309,2022-01-11,One-time Buyers,22,Philadelphia,True
+CUST_0310,2024-11-28,One-time Buyers,47,Phoenix,True
+CUST_0311,2022-07-12,One-time Buyers,35,Houston,True
+CUST_0312,2023-06-14,Medium Value,35,Philadelphia,True
+CUST_0313,2022-09-30,High Value,29,Houston,True
+CUST_0314,2022-12-24,High Value,31,Phoenix,True
+CUST_0315,2023-01-23,Medium Value,32,San Antonio,True
+CUST_0316,2023-04-15,Low Value,29,Chicago,True
+CUST_0317,2022-10-22,Medium Value,38,Phoenix,True
+CUST_0318,2022-01-08,Medium Value,45,San Diego,True
+CUST_0319,2022-01-07,One-time Buyers,35,Philadelphia,True
+CUST_0320,2023-04-27,One-time Buyers,47,Los Angeles,True
+CUST_0321,2022-05-10,One-time Buyers,28,New York,True
+CUST_0322,2022-10-24,Medium Value,51,San Diego,True
+CUST_0323,2024-12-31,One-time Buyers,29,San Jose,True
+CUST_0324,2023-02-06,Medium Value,52,San Jose,True
+CUST_0325,2022-02-05,Medium Value,18,Los Angeles,True
+CUST_0326,2022-03-21,Medium Value,23,Los Angeles,True
+CUST_0327,2022-01-06,High Value,34,Dallas,True
+CUST_0328,2022-12-08,Medium Value,37,Houston,True
+CUST_0329,2024-06-17,Medium Value,46,Dallas,True
+CUST_0330,2022-07-08,One-time Buyers,32,Phoenix,True
+CUST_0331,2022-02-24,Low Value,36,Chicago,True
+CUST_0332,2022-08-04,Low Value,40,Philadelphia,True
+CUST_0333,2022-02-28,Medium Value,27,Los Angeles,True
+CUST_0334,2022-05-10,Low Value,28,Houston,True
+CUST_0335,2024-11-09,High Value,52,Philadelphia,True
+CUST_0336,2022-02-20,Low Value,28,Phoenix,True
+CUST_0337,2022-03-18,Low Value,37,Chicago,True
+CUST_0338,2022-09-18,Low Value,18,San Diego,True
+CUST_0339,2023-09-22,High Value,27,Dallas,True
+CUST_0340,2024-07-23,One-time Buyers,30,Phoenix,True
+CUST_0341,2023-05-13,One-time Buyers,42,San Jose,True
+CUST_0342,2022-06-07,High Value,59,Dallas,True
+CUST_0343,2022-04-01,Medium Value,34,New York,True
+CUST_0344,2022-03-16,High Value,56,Dallas,True
+CUST_0345,2022-01-24,Low Value,34,Phoenix,True
+CUST_0346,2022-09-27,Medium Value,49,Los Angeles,True
+CUST_0347,2022-05-09,Low Value,43,Chicago,True
+CUST_0348,2023-09-25,Medium Value,57,Phoenix,True
+CUST_0349,2022-11-19,Low Value,44,Los Angeles,True
+CUST_0350,2022-12-08,Low Value,41,Los Angeles,True
+CUST_0351,2023-02-24,Low Value,32,Dallas,True
+CUST_0352,2023-02-13,Medium Value,36,Chicago,True
+CUST_0353,2023-05-27,Medium Value,35,Phoenix,True
+CUST_0354,2022-04-12,High Value,50,Phoenix,True
+CUST_0355,2024-12-31,Low Value,18,San Jose,True
+CUST_0356,2022-08-21,Low Value,43,Houston,True
+CUST_0357,2022-02-03,Low Value,37,Philadelphia,True
+CUST_0358,2022-05-06,One-time Buyers,53,Houston,True
+CUST_0359,2024-03-17,Low Value,29,Phoenix,True
+CUST_0360,2023-01-05,Medium Value,37,Dallas,True
+CUST_0361,2022-09-19,High Value,49,San Diego,True
+CUST_0362,2023-09-08,High Value,18,Phoenix,True
+CUST_0363,2024-11-06,One-time Buyers,28,New York,True
+CUST_0364,2022-01-08,Low Value,39,Los Angeles,True
+CUST_0365,2022-04-28,High Value,53,San Antonio,True
+CUST_0366,2022-06-27,Low Value,34,Phoenix,True
+CUST_0367,2024-12-31,Medium Value,18,New York,True
+CUST_0368,2023-04-21,Medium Value,18,New York,True
+CUST_0369,2022-03-16,Low Value,37,Philadelphia,True
+CUST_0370,2022-04-06,Low Value,28,Chicago,True
+CUST_0371,2022-02-19,One-time Buyers,42,Phoenix,True
+CUST_0372,2022-11-02,Medium Value,33,Chicago,True
+CUST_0373,2022-04-07,Medium Value,34,San Diego,True
+CUST_0374,2022-03-20,One-time Buyers,37,Dallas,True
+CUST_0375,2022-01-10,Medium Value,19,San Antonio,True
+CUST_0376,2022-07-12,One-time Buyers,52,Dallas,True
+CUST_0377,2022-03-03,One-time Buyers,39,New York,True
+CUST_0378,2023-07-13,Low Value,40,Los Angeles,True
+CUST_0379,2022-10-23,Low Value,37,Los Angeles,True
+CUST_0380,2022-07-17,Low Value,43,Chicago,True
+CUST_0381,2022-02-10,High Value,26,Dallas,True
+CUST_0382,2022-07-22,Medium Value,56,New York,True
+CUST_0383,2022-09-19,High Value,45,Philadelphia,True
+CUST_0384,2022-07-02,Medium Value,27,San Jose,True
+CUST_0385,2022-01-23,High Value,29,Dallas,True
+CUST_0386,2022-04-14,Low Value,18,Chicago,True
+CUST_0387,2023-08-14,Low Value,23,San Antonio,True
+CUST_0388,2024-12-31,Medium Value,34,Chicago,True
+CUST_0389,2022-07-27,High Value,53,New York,True
+CUST_0390,2022-01-03,Low Value,45,Phoenix,True
+CUST_0391,2022-08-07,Medium Value,32,Philadelphia,True
+CUST_0392,2022-01-25,High Value,26,New York,True
+CUST_0393,2022-02-12,Medium Value,56,Philadelphia,True
+CUST_0394,2022-03-08,Low Value,42,Houston,True
+CUST_0395,2022-02-03,Medium Value,51,Houston,True
+CUST_0396,2024-04-05,High Value,46,Los Angeles,True
+CUST_0397,2022-08-22,High Value,43,Philadelphia,True
+CUST_0398,2023-05-01,Low Value,39,Dallas,True
+CUST_0399,2023-05-21,Medium Value,50,San Antonio,True
+CUST_0400,2022-11-06,Medium Value,37,San Jose,True
+CUST_0401,2023-01-30,Low Value,27,Chicago,True
+CUST_0402,2022-03-16,One-time Buyers,29,Houston,True
+CUST_0403,2022-05-04,One-time Buyers,41,Chicago,True
+CUST_0404,2022-07-26,Low Value,28,Chicago,True
+CUST_0405,2023-01-17,Low Value,35,San Antonio,True
+CUST_0406,2022-12-09,Medium Value,36,New York,True
+CUST_0407,2022-01-10,High Value,31,Chicago,True
+CUST_0408,2023-01-25,One-time Buyers,18,Philadelphia,True
+CUST_0409,2022-06-16,Low Value,20,San Antonio,True
+CUST_0410,2022-01-13,One-time Buyers,18,Houston,True
+CUST_0411,2022-09-17,One-time Buyers,55,Phoenix,True
+CUST_0412,2023-09-13,Medium Value,29,Chicago,True
+CUST_0413,2022-06-14,One-time Buyers,42,Los Angeles,True
+CUST_0414,2022-03-12,One-time Buyers,18,San Antonio,True
+CUST_0415,2022-10-27,Low Value,27,New York,True
+CUST_0416,2023-12-21,Low Value,39,San Diego,True
+CUST_0417,2022-03-23,Medium Value,34,Houston,True
+CUST_0418,2023-09-06,Medium Value,49,Houston,True
+CUST_0419,2022-08-05,Medium Value,48,San Diego,True
+CUST_0420,2022-05-29,Medium Value,18,Philadelphia,True
+CUST_0421,2022-03-31,One-time Buyers,19,Phoenix,True
+CUST_0422,2022-02-12,Low Value,48,Houston,True
+CUST_0423,2022-07-01,One-time Buyers,35,Houston,True
+CUST_0424,2023-06-14,Medium Value,19,New York,True
+CUST_0425,2022-03-27,Medium Value,53,Houston,True
+CUST_0426,2022-02-25,Medium Value,45,San Antonio,True
+CUST_0427,2023-02-04,High Value,31,Philadelphia,True
+CUST_0428,2023-05-07,Low Value,59,Phoenix,True
+CUST_0429,2023-09-01,Low Value,31,Los Angeles,True
+CUST_0430,2022-01-18,Medium Value,32,Phoenix,True
+CUST_0431,2024-04-07,Low Value,43,Philadelphia,True
+CUST_0432,2022-08-01,Medium Value,34,Dallas,True
+CUST_0433,2022-02-18,High Value,45,San Antonio,True
+CUST_0434,2022-08-06,Medium Value,39,Dallas,True
+CUST_0435,2022-11-26,Medium Value,48,Philadelphia,True
+CUST_0436,2022-12-02,Medium Value,22,New York,True
+CUST_0437,2022-01-30,One-time Buyers,27,Los Angeles,True
+CUST_0438,2022-02-28,One-time Buyers,57,Phoenix,True
+CUST_0439,2023-07-01,Low Value,36,Chicago,True
+CUST_0440,2022-10-16,Medium Value,39,San Jose,True
+CUST_0441,2022-09-11,One-time Buyers,48,Phoenix,True
+CUST_0442,2022-11-19,Medium Value,49,New York,True
+CUST_0443,2022-11-13,Medium Value,38,Los Angeles,True
+CUST_0444,2022-01-15,One-time Buyers,25,San Jose,True
+CUST_0445,2022-06-06,One-time Buyers,38,San Antonio,True
+CUST_0446,2023-02-07,Low Value,40,Philadelphia,True
+CUST_0447,2022-06-05,One-time Buyers,49,Philadelphia,True
+CUST_0448,2023-03-08,Low Value,20,San Antonio,True
+CUST_0449,2022-06-21,Low Value,33,San Jose,True
+CUST_0450,2022-01-02,Low Value,36,Dallas,True
+CUST_0451,2022-05-17,Medium Value,54,Los Angeles,True
+CUST_0452,2022-06-28,Medium Value,24,San Antonio,True
+CUST_0453,2022-05-21,Medium Value,54,San Jose,True
+CUST_0454,2022-07-06,Low Value,47,Houston,True
+CUST_0455,2023-08-21,Medium Value,18,Phoenix,True
+CUST_0456,2022-05-06,High Value,62,New York,True
+CUST_0457,2022-06-02,Medium Value,47,San Antonio,True
+CUST_0458,2023-03-11,Low Value,64,New York,True
+CUST_0459,2023-01-15,Low Value,44,Dallas,True
+CUST_0460,2024-02-25,Medium Value,38,Dallas,True
+CUST_0461,2024-03-28,High Value,25,Houston,True
+CUST_0462,2022-03-31,Medium Value,31,Philadelphia,True
+CUST_0463,2022-04-21,Medium Value,37,San Antonio,True
+CUST_0464,2022-10-10,Medium Value,51,Los Angeles,True
+CUST_0465,2022-04-06,Low Value,23,Philadelphia,True
+CUST_0466,2022-12-09,Medium Value,32,San Jose,True
+CUST_0467,2022-08-12,Medium Value,27,Philadelphia,True
+CUST_0468,2022-03-30,Low Value,38,Los Angeles,True
+CUST_0469,2022-07-18,One-time Buyers,37,Phoenix,True
+CUST_0470,2022-10-28,High Value,51,Dallas,True
+CUST_0471,2022-10-04,One-time Buyers,35,Phoenix,True
+CUST_0472,2022-03-13,Medium Value,35,San Antonio,True
+CUST_0473,2022-06-08,Low Value,20,Philadelphia,True
+CUST_0474,2022-04-07,Low Value,26,San Antonio,True
+CUST_0475,2022-06-15,Low Value,26,Phoenix,True
+CUST_0476,2022-06-30,Low Value,38,Dallas,True
+CUST_0477,2022-02-25,Low Value,42,Chicago,True
+CUST_0478,2022-01-31,Medium Value,39,Houston,True
+CUST_0479,2022-11-05,High Value,46,San Antonio,True
+CUST_0480,2022-05-29,Medium Value,61,San Antonio,True
+CUST_0481,2022-07-26,Low Value,25,Chicago,True
+CUST_0482,2023-01-15,Medium Value,54,San Jose,True
+CUST_0483,2024-12-31,Low Value,41,San Jose,True
+CUST_0484,2022-01-25,Medium Value,54,Phoenix,True
+CUST_0485,2023-11-05,High Value,28,San Antonio,True
+CUST_0486,2022-05-12,Medium Value,22,Dallas,True
+CUST_0487,2022-08-08,High Value,37,New York,True
+CUST_0488,2022-11-12,One-time Buyers,18,Phoenix,True
+CUST_0489,2022-04-28,Low Value,49,Phoenix,True
+CUST_0490,2022-11-22,One-time Buyers,20,Houston,True
+CUST_0491,2023-01-29,Low Value,26,San Antonio,True
+CUST_0492,2024-08-06,Low Value,34,San Jose,True
+CUST_0493,2022-12-18,Medium Value,37,San Jose,True
+CUST_0494,2022-06-29,High Value,18,Philadelphia,True
+CUST_0495,2022-05-09,Low Value,48,San Diego,True
+CUST_0496,2022-03-22,One-time Buyers,42,San Diego,True
+CUST_0497,2022-02-19,Medium Value,49,San Diego,True
+CUST_0498,2022-10-21,Low Value,36,Houston,True
+CUST_0499,2023-02-27,High Value,36,Dallas,True
+CUST_0500,2023-01-06,Low Value,33,San Diego,True
+CUST_0501,2022-04-19,High Value,25,Chicago,True
+CUST_0502,2024-04-09,High Value,19,Los Angeles,True
+CUST_0503,2022-04-20,Low Value,21,Phoenix,True
+CUST_0504,2022-08-06,Low Value,18,Dallas,True
+CUST_0505,2022-07-26,One-time Buyers,35,San Jose,True
+CUST_0506,2023-09-24,Medium Value,33,Philadelphia,True
+CUST_0507,2023-05-07,One-time Buyers,26,Los Angeles,True
+CUST_0508,2022-06-04,High Value,46,Houston,True
+CUST_0509,2022-12-23,Medium Value,35,Phoenix,True
+CUST_0510,2023-06-03,Low Value,34,Houston,True
+CUST_0511,2023-08-18,High Value,34,Houston,True
+CUST_0512,2023-03-11,Low Value,44,Chicago,True
+CUST_0513,2022-07-29,Medium Value,22,New York,True
+CUST_0514,2022-01-22,Medium Value,31,New York,True
+CUST_0515,2022-02-13,High Value,35,Houston,True
+CUST_0516,2022-06-19,One-time Buyers,41,San Diego,True
+CUST_0517,2022-07-31,Medium Value,23,San Jose,True
+CUST_0518,2022-03-15,Low Value,33,Los Angeles,True
+CUST_0519,2022-11-12,Low Value,32,San Diego,True
+CUST_0520,2024-12-31,High Value,52,San Antonio,True
+CUST_0521,2022-12-23,High Value,27,San Jose,True
+CUST_0522,2022-01-20,Low Value,31,Houston,True
+CUST_0523,2024-12-31,Low Value,40,San Antonio,True
+CUST_0524,2022-10-21,Medium Value,49,San Diego,True
+CUST_0525,2022-06-16,Low Value,18,San Antonio,True
+CUST_0526,2022-06-10,Medium Value,32,Houston,True
+CUST_0527,2023-02-01,Low Value,28,Chicago,True
+CUST_0528,2022-04-01,High Value,18,New York,True
+CUST_0529,2022-02-14,Low Value,18,Los Angeles,True
+CUST_0530,2022-03-24,High Value,37,San Antonio,True
+CUST_0531,2023-05-01,One-time Buyers,34,Houston,True
+CUST_0532,2022-08-27,High Value,41,Chicago,True
+CUST_0533,2023-07-13,Medium Value,34,Dallas,True
+CUST_0534,2022-04-28,Medium Value,23,San Diego,True
+CUST_0535,2022-07-13,Low Value,18,New York,True
+CUST_0536,2023-04-07,Medium Value,18,Dallas,True
+CUST_0537,2024-07-21,One-time Buyers,26,Houston,True
+CUST_0538,2022-06-22,Low Value,47,Los Angeles,True
+CUST_0539,2023-07-06,Medium Value,60,San Diego,True
+CUST_0540,2023-11-08,Low Value,27,Chicago,True
+CUST_0541,2022-10-13,Low Value,35,San Diego,True
+CUST_0542,2023-02-06,Medium Value,25,Dallas,True
+CUST_0543,2022-12-09,Low Value,30,Dallas,True
+CUST_0544,2022-01-04,High Value,37,San Jose,True
+CUST_0545,2023-02-06,One-time Buyers,18,Philadelphia,True
+CUST_0546,2023-03-24,Medium Value,23,San Diego,True
+CUST_0547,2022-03-03,Low Value,49,San Jose,True
+CUST_0548,2022-01-07,Medium Value,43,Dallas,True
+CUST_0549,2024-10-28,High Value,46,San Antonio,True
+CUST_0550,2022-05-25,Low Value,25,Dallas,True
+CUST_0551,2022-02-08,Medium Value,50,San Diego,True
+CUST_0552,2022-08-15,Low Value,41,Chicago,True
+CUST_0553,2024-11-03,High Value,27,San Diego,True
+CUST_0554,2022-10-04,One-time Buyers,46,San Diego,True
+CUST_0555,2023-02-18,Low Value,41,Phoenix,True
+CUST_0556,2022-05-04,High Value,47,Houston,True
+CUST_0557,2022-03-18,One-time Buyers,22,Phoenix,True
+CUST_0558,2022-10-12,Medium Value,18,Dallas,True
+CUST_0559,2022-03-24,One-time Buyers,32,San Diego,True
+CUST_0560,2022-11-08,One-time Buyers,31,Houston,True
+CUST_0561,2023-05-23,Medium Value,32,Phoenix,True
+CUST_0562,2022-07-05,Low Value,38,San Diego,True
+CUST_0563,2023-01-27,Low Value,42,Los Angeles,True
+CUST_0564,2022-08-25,Medium Value,49,Phoenix,True
+CUST_0565,2024-04-11,One-time Buyers,39,Houston,True
+CUST_0566,2022-03-14,Low Value,27,Phoenix,True
+CUST_0567,2023-07-06,Low Value,38,Philadelphia,True
+CUST_0568,2022-08-02,Low Value,55,Philadelphia,True
+CUST_0569,2022-09-07,Medium Value,44,Dallas,True
+CUST_0570,2023-03-06,Low Value,39,Los Angeles,True
+CUST_0571,2022-07-05,Medium Value,32,Chicago,True
+CUST_0572,2022-03-10,Low Value,24,Chicago,True
+CUST_0573,2023-02-01,Low Value,20,Houston,True
+CUST_0574,2023-04-05,Medium Value,40,San Antonio,True
+CUST_0575,2022-01-02,Low Value,25,Chicago,True
+CUST_0576,2022-05-18,One-time Buyers,42,Houston,True
+CUST_0577,2022-02-18,Medium Value,43,Los Angeles,True
+CUST_0578,2022-05-18,One-time Buyers,30,San Antonio,True
+CUST_0579,2023-01-20,Medium Value,37,San Antonio,True
+CUST_0580,2022-06-09,Medium Value,46,Philadelphia,True
+CUST_0581,2022-01-01,Low Value,18,Dallas,True
+CUST_0582,2022-01-30,Low Value,50,San Diego,True
+CUST_0583,2022-07-16,Low Value,28,San Antonio,True
+CUST_0584,2022-09-05,Low Value,37,New York,True
+CUST_0585,2022-10-05,Low Value,47,Houston,True
+CUST_0586,2023-06-07,Medium Value,42,San Antonio,True
+CUST_0587,2022-01-25,Medium Value,32,San Antonio,True
+CUST_0588,2023-01-04,Low Value,29,San Jose,True
+CUST_0589,2022-08-07,Low Value,21,New York,True
+CUST_0590,2022-06-20,Medium Value,32,San Jose,True
+CUST_0591,2022-03-16,High Value,53,San Antonio,True
+CUST_0592,2024-03-22,One-time Buyers,42,San Diego,True
+CUST_0593,2022-06-14,Low Value,49,New York,True
+CUST_0594,2022-06-08,High Value,41,Philadelphia,True
+CUST_0595,2022-05-26,Low Value,57,Phoenix,True
+CUST_0596,2022-05-15,Medium Value,53,San Antonio,True
+CUST_0597,2022-01-08,Medium Value,36,San Antonio,True
+CUST_0598,2024-04-27,Medium Value,18,Dallas,True
+CUST_0599,2022-06-18,Medium Value,41,Dallas,True
+CUST_0600,2022-07-17,Medium Value,28,San Jose,True
+CUST_0601,2022-01-26,High Value,34,Houston,True
+CUST_0602,2023-01-28,Medium Value,56,San Diego,True
+CUST_0603,2022-02-21,Low Value,23,Houston,True
+CUST_0604,2022-11-17,Low Value,38,Phoenix,True
+CUST_0605,2022-01-22,One-time Buyers,33,San Antonio,True
+CUST_0606,2022-03-27,Medium Value,32,San Diego,True
+CUST_0607,2022-03-28,One-time Buyers,45,New York,True
+CUST_0608,2023-03-26,Medium Value,25,San Antonio,True
+CUST_0609,2022-07-20,High Value,18,Philadelphia,True
+CUST_0610,2023-11-22,Medium Value,45,San Antonio,True
+CUST_0611,2022-11-24,High Value,35,Chicago,True
+CUST_0612,2022-01-17,One-time Buyers,41,San Diego,True
+CUST_0613,2022-04-01,Medium Value,44,Chicago,True
+CUST_0614,2022-09-07,Medium Value,19,San Jose,True
+CUST_0615,2024-12-08,Medium Value,18,Dallas,True
+CUST_0616,2022-02-19,High Value,48,New York,True
+CUST_0617,2022-03-28,Medium Value,37,San Antonio,True
+CUST_0618,2022-02-06,Low Value,48,San Jose,True
+CUST_0619,2023-01-20,One-time Buyers,37,San Jose,True
+CUST_0620,2022-01-26,Low Value,30,New York,True
+CUST_0621,2022-07-18,Medium Value,40,Los Angeles,True
+CUST_0622,2022-06-09,Medium Value,45,San Antonio,True
+CUST_0623,2022-08-25,Low Value,35,Chicago,True
+CUST_0624,2022-07-04,Low Value,26,San Diego,True
+CUST_0625,2023-04-08,High Value,27,Chicago,True
+CUST_0626,2022-05-01,Medium Value,25,New York,True
+CUST_0627,2022-08-08,Low Value,38,Phoenix,True
+CUST_0628,2023-09-06,One-time Buyers,31,San Antonio,True
+CUST_0629,2022-06-30,Medium Value,45,Philadelphia,True
+CUST_0630,2022-07-26,Low Value,34,Houston,True
+CUST_0631,2022-11-17,High Value,29,San Diego,True
+CUST_0632,2024-09-28,Low Value,48,Philadelphia,True
+CUST_0633,2022-08-11,Medium Value,46,Philadelphia,True
+CUST_0634,2022-10-30,Low Value,26,San Antonio,True
+CUST_0635,2022-06-01,Low Value,35,Phoenix,True
+CUST_0636,2022-12-24,Medium Value,45,San Antonio,True
+CUST_0637,2022-04-25,Low Value,30,Phoenix,True
+CUST_0638,2023-11-05,Medium Value,30,Los Angeles,True
+CUST_0639,2022-02-19,Low Value,59,San Diego,True
+CUST_0640,2023-10-05,High Value,22,New York,True
+CUST_0641,2022-07-31,Low Value,34,Dallas,True
+CUST_0642,2022-11-27,One-time Buyers,40,New York,True
+CUST_0643,2022-02-24,Low Value,32,Philadelphia,True
+CUST_0644,2022-01-04,Medium Value,46,Houston,True
+CUST_0645,2022-08-13,Low Value,41,Los Angeles,True
+CUST_0646,2023-01-30,High Value,38,New York,True
+CUST_0647,2023-08-09,Medium Value,37,New York,True
+CUST_0648,2022-04-24,Low Value,50,Houston,True
+CUST_0649,2023-06-02,Medium Value,18,Houston,True
+CUST_0650,2023-06-13,Medium Value,27,New York,True
+CUST_0651,2022-02-27,Medium Value,45,San Jose,True
+CUST_0652,2022-03-24,High Value,41,Chicago,True
+CUST_0653,2022-05-09,High Value,54,Houston,True
+CUST_0654,2022-10-19,Low Value,31,Chicago,True
+CUST_0655,2023-07-07,Medium Value,39,San Diego,True
+CUST_0656,2022-02-10,Low Value,34,Los Angeles,True
+CUST_0657,2022-04-28,Low Value,29,San Jose,True
+CUST_0658,2023-08-04,Medium Value,37,Houston,True
+CUST_0659,2023-06-29,Medium Value,45,San Diego,True
+CUST_0660,2022-08-04,Low Value,18,Phoenix,True
+CUST_0661,2022-03-13,Medium Value,41,Philadelphia,True
+CUST_0662,2023-03-12,One-time Buyers,37,Chicago,True
+CUST_0663,2022-11-25,Low Value,39,San Jose,True
+CUST_0664,2022-09-04,Low Value,32,San Jose,True
+CUST_0665,2022-06-27,High Value,48,Los Angeles,True
+CUST_0666,2022-05-24,Low Value,33,Chicago,True
+CUST_0667,2022-02-05,One-time Buyers,28,Phoenix,True
+CUST_0668,2024-01-21,Low Value,33,Los Angeles,True
+CUST_0669,2023-08-10,Medium Value,41,San Jose,True
+CUST_0670,2023-05-06,Low Value,31,New York,True
+CUST_0671,2024-09-14,High Value,23,Phoenix,True
+CUST_0672,2022-04-10,Low Value,48,San Jose,True
+CUST_0673,2022-02-05,One-time Buyers,39,San Antonio,True
+CUST_0674,2022-03-25,High Value,57,San Antonio,True
+CUST_0675,2022-07-09,High Value,44,Houston,True
+CUST_0676,2022-04-17,Medium Value,18,Los Angeles,True
+CUST_0677,2022-01-15,Low Value,46,San Jose,True
+CUST_0678,2022-03-03,One-time Buyers,55,Houston,True
+CUST_0679,2022-03-24,High Value,35,Los Angeles,True
+CUST_0680,2023-06-19,High Value,48,Phoenix,True
+CUST_0681,2022-02-06,Low Value,46,San Jose,True
+CUST_0682,2022-09-12,One-time Buyers,41,Los Angeles,True
+CUST_0683,2022-06-18,Low Value,27,San Jose,True
+CUST_0684,2022-10-04,Low Value,18,New York,True
+CUST_0685,2022-06-25,One-time Buyers,54,Philadelphia,True
+CUST_0686,2022-12-30,Low Value,50,Dallas,True
+CUST_0687,2022-08-04,Medium Value,32,San Antonio,True
+CUST_0688,2022-11-13,Medium Value,24,Philadelphia,True
+CUST_0689,2022-10-03,One-time Buyers,35,Los Angeles,True
+CUST_0690,2022-01-23,Low Value,55,Dallas,True
+CUST_0691,2022-05-15,Medium Value,27,Philadelphia,True
+CUST_0692,2022-04-08,High Value,34,New York,True
+CUST_0693,2022-05-01,One-time Buyers,18,San Antonio,True
+CUST_0694,2022-04-09,Low Value,34,San Diego,True
+CUST_0695,2022-08-07,Medium Value,31,Los Angeles,True
+CUST_0696,2022-09-12,Low Value,25,San Antonio,True
+CUST_0697,2022-04-15,Low Value,33,Philadelphia,True
+CUST_0698,2022-10-15,High Value,43,San Diego,True
+CUST_0699,2022-05-08,High Value,47,Chicago,True
+CUST_0700,2022-12-30,Medium Value,35,San Antonio,True
+CUST_0701,2022-02-12,One-time Buyers,26,Chicago,True
+CUST_0702,2022-06-08,Medium Value,18,Dallas,True
+CUST_0703,2023-01-11,One-time Buyers,18,Phoenix,True
+CUST_0704,2024-07-19,Low Value,45,San Jose,True
+CUST_0705,2022-01-01,Low Value,29,Dallas,True
+CUST_0706,2022-01-19,Medium Value,36,San Diego,True
+CUST_0707,2022-12-15,Low Value,31,San Diego,True
+CUST_0708,2022-05-19,Medium Value,24,San Antonio,True
+CUST_0709,2022-06-12,High Value,33,San Jose,True
+CUST_0710,2022-05-12,High Value,35,Phoenix,True
+CUST_0711,2022-11-28,One-time Buyers,21,Philadelphia,True
+CUST_0712,2022-01-04,Low Value,51,Houston,True
+CUST_0713,2024-01-04,Low Value,46,Los Angeles,True
+CUST_0714,2022-02-08,Low Value,38,Phoenix,True
+CUST_0715,2022-01-21,One-time Buyers,21,San Diego,True
+CUST_0716,2022-06-14,High Value,36,Houston,True
+CUST_0717,2022-07-19,Medium Value,28,San Diego,True
+CUST_0718,2022-09-03,High Value,36,San Jose,True
+CUST_0719,2023-01-27,Medium Value,46,San Jose,True
+CUST_0720,2022-06-18,Low Value,40,San Antonio,True
+CUST_0721,2022-04-07,Low Value,47,Philadelphia,True
+CUST_0722,2023-04-26,Medium Value,26,New York,True
+CUST_0723,2023-08-08,Low Value,33,San Diego,True
+CUST_0724,2022-09-19,Medium Value,44,Philadelphia,True
+CUST_0725,2022-10-03,Medium Value,47,Chicago,True
+CUST_0726,2022-02-24,Medium Value,48,San Diego,True
+CUST_0727,2022-02-16,Medium Value,31,Houston,True
+CUST_0728,2022-01-08,Medium Value,44,Philadelphia,True
+CUST_0729,2022-10-31,Low Value,28,Phoenix,True
+CUST_0730,2022-04-22,Medium Value,32,Philadelphia,True
+CUST_0731,2022-10-07,Low Value,20,Phoenix,True
+CUST_0732,2022-07-01,One-time Buyers,27,San Jose,True
+CUST_0733,2022-02-15,Low Value,29,Phoenix,True
+CUST_0734,2024-09-24,Low Value,34,Dallas,True
+CUST_0735,2022-01-12,Medium Value,33,New York,True
+CUST_0736,2022-01-08,Medium Value,30,Dallas,True
+CUST_0737,2022-07-04,Low Value,41,Houston,True
+CUST_0738,2024-07-25,High Value,31,Los Angeles,True
+CUST_0739,2023-10-20,Medium Value,49,Houston,True
+CUST_0740,2022-04-13,One-time Buyers,39,San Antonio,True
+CUST_0741,2022-05-29,One-time Buyers,18,San Diego,True
+CUST_0742,2022-02-20,Low Value,21,Dallas,True
+CUST_0743,2022-08-23,Low Value,42,Houston,True
+CUST_0744,2022-04-19,Medium Value,41,San Diego,True
+CUST_0745,2022-03-06,Medium Value,32,San Diego,True
+CUST_0746,2024-10-15,Medium Value,29,San Diego,True
+CUST_0747,2022-05-08,Low Value,22,New York,True
+CUST_0748,2022-10-23,Medium Value,37,Los Angeles,True
+CUST_0749,2022-06-04,Medium Value,48,Phoenix,True
+CUST_0750,2022-03-09,Low Value,58,Houston,True
+CUST_0751,2022-01-13,Medium Value,66,San Antonio,True
+CUST_0752,2024-09-24,Medium Value,18,Houston,True
+CUST_0753,2023-01-20,One-time Buyers,48,Phoenix,True
+CUST_0754,2023-04-14,High Value,36,San Jose,True
+CUST_0755,2023-04-20,High Value,42,Philadelphia,True
+CUST_0756,2022-02-18,One-time Buyers,30,San Diego,True
+CUST_0757,2024-12-31,Medium Value,48,Dallas,True
+CUST_0758,2022-05-22,Low Value,34,Dallas,True
+CUST_0759,2022-03-10,Medium Value,27,Philadelphia,True
+CUST_0760,2022-07-23,Low Value,51,San Antonio,True
+CUST_0761,2023-08-26,Low Value,34,Dallas,True
+CUST_0762,2023-03-10,Low Value,38,Philadelphia,True
+CUST_0763,2024-07-26,Low Value,32,Philadelphia,True
+CUST_0764,2022-06-23,One-time Buyers,33,San Diego,True
+CUST_0765,2023-11-02,Low Value,42,Phoenix,True
+CUST_0766,2024-02-22,Low Value,18,Phoenix,True
+CUST_0767,2022-07-14,High Value,48,Phoenix,True
+CUST_0768,2022-02-13,Low Value,46,Houston,True
+CUST_0769,2022-05-14,Medium Value,27,Los Angeles,True
+CUST_0770,2024-08-05,Medium Value,45,Houston,True
+CUST_0771,2024-12-31,High Value,46,Philadelphia,True
+CUST_0772,2022-01-05,Medium Value,41,Los Angeles,True
+CUST_0773,2023-06-23,Low Value,27,Dallas,True
+CUST_0774,2023-03-16,Low Value,40,Chicago,True
+CUST_0775,2023-03-12,Low Value,39,Houston,True
+CUST_0776,2022-07-20,High Value,47,Houston,True
+CUST_0777,2022-06-07,High Value,26,San Diego,True
+CUST_0778,2022-02-05,Medium Value,33,Phoenix,True
+CUST_0779,2024-06-04,Low Value,18,San Jose,True
+CUST_0780,2022-07-28,High Value,37,Dallas,True
+CUST_0781,2023-01-04,Low Value,18,San Jose,True
+CUST_0782,2022-04-09,Medium Value,25,Phoenix,True
+CUST_0783,2024-03-05,Low Value,44,Los Angeles,True
+CUST_0784,2022-07-14,Medium Value,32,Houston,True
+CUST_0785,2022-11-03,Medium Value,35,Phoenix,True
+CUST_0786,2022-11-10,Medium Value,38,Houston,True
+CUST_0787,2023-10-21,High Value,18,Philadelphia,True
+CUST_0788,2022-10-22,Low Value,37,Chicago,True
+CUST_0789,2022-12-11,High Value,44,Phoenix,True
+CUST_0790,2023-05-04,Low Value,23,New York,True
+CUST_0791,2022-08-09,Low Value,39,Dallas,True
+CUST_0792,2022-07-25,Medium Value,28,Chicago,True
+CUST_0793,2022-02-13,Medium Value,28,Phoenix,True
+CUST_0794,2022-04-25,Low Value,36,New York,True
+CUST_0795,2022-08-03,High Value,31,New York,True
+CUST_0796,2022-01-02,Low Value,36,Dallas,True
+CUST_0797,2023-02-10,Medium Value,27,Phoenix,True
+CUST_0798,2022-04-05,Medium Value,31,Chicago,True
+CUST_0799,2022-04-23,Low Value,38,San Diego,True
+CUST_0800,2023-12-24,Medium Value,37,Los Angeles,True
+CUST_0801,2024-09-24,Medium Value,38,New York,True
+CUST_0802,2022-05-28,Medium Value,28,San Jose,True
+CUST_0803,2023-01-01,Low Value,46,Phoenix,True
+CUST_0804,2023-03-06,One-time Buyers,49,San Diego,True
+CUST_0805,2022-12-30,One-time Buyers,27,San Diego,True
+CUST_0806,2022-11-06,Low Value,31,San Diego,True
+CUST_0807,2022-05-14,High Value,35,Philadelphia,True
+CUST_0808,2022-07-03,Medium Value,42,Chicago,True
+CUST_0809,2022-05-18,Medium Value,28,New York,True
+CUST_0810,2022-06-11,Low Value,33,Phoenix,True
+CUST_0811,2023-07-24,Low Value,42,San Diego,True
+CUST_0812,2023-09-29,Medium Value,21,Los Angeles,True
+CUST_0813,2022-12-06,Medium Value,18,Los Angeles,True
+CUST_0814,2022-11-13,High Value,44,San Antonio,True
+CUST_0815,2022-04-24,Low Value,20,San Diego,True
+CUST_0816,2022-03-08,Low Value,54,Los Angeles,True
+CUST_0817,2022-04-12,One-time Buyers,28,San Jose,True
+CUST_0818,2022-08-06,High Value,33,New York,True
+CUST_0819,2023-06-26,Medium Value,32,Chicago,True
+CUST_0820,2022-06-05,Medium Value,23,Chicago,True
+CUST_0821,2022-09-29,Low Value,34,San Jose,True
+CUST_0822,2022-08-08,One-time Buyers,31,Phoenix,True
+CUST_0823,2022-04-23,Low Value,43,Los Angeles,True
+CUST_0824,2024-12-31,Low Value,43,Houston,True
+CUST_0825,2022-01-06,High Value,43,Los Angeles,True
+CUST_0826,2022-04-03,High Value,42,Dallas,True
+CUST_0827,2022-04-15,High Value,36,San Antonio,True
+CUST_0828,2022-05-20,Medium Value,53,San Jose,True
+CUST_0829,2022-04-17,High Value,36,San Jose,True
+CUST_0830,2022-01-08,Low Value,35,San Jose,True
+CUST_0831,2023-04-04,One-time Buyers,32,Houston,True
+CUST_0832,2022-04-19,Medium Value,52,Dallas,True
+CUST_0833,2022-03-19,High Value,33,San Antonio,True
+CUST_0834,2022-07-12,Low Value,18,San Diego,True
+CUST_0835,2024-08-07,High Value,35,San Diego,True
+CUST_0836,2022-01-24,One-time Buyers,37,Phoenix,True
+CUST_0837,2022-03-18,Medium Value,30,San Jose,True
+CUST_0838,2023-04-02,Low Value,31,San Antonio,True
+CUST_0839,2022-02-17,Low Value,40,Phoenix,True
+CUST_0840,2022-12-03,Medium Value,48,San Jose,True
+CUST_0841,2022-05-08,Medium Value,32,San Jose,True
+CUST_0842,2023-10-25,Medium Value,40,New York,True
+CUST_0843,2022-01-20,Low Value,24,San Jose,True
+CUST_0844,2024-08-08,High Value,60,Los Angeles,True
+CUST_0845,2022-03-25,Low Value,59,Houston,True
+CUST_0846,2022-04-07,High Value,35,Houston,True
+CUST_0847,2022-07-04,Low Value,18,Phoenix,True
+CUST_0848,2022-02-24,High Value,53,Los Angeles,True
+CUST_0849,2022-03-12,Medium Value,29,Chicago,True
+CUST_0850,2022-03-07,One-time Buyers,42,Houston,True
+CUST_0851,2024-12-31,One-time Buyers,18,Chicago,True
+CUST_0852,2022-09-28,Medium Value,40,Dallas,True
+CUST_0853,2022-10-20,High Value,40,Los Angeles,True
+CUST_0854,2022-02-22,Low Value,35,Chicago,True
+CUST_0855,2023-01-16,Medium Value,43,New York,True
+CUST_0856,2022-02-23,Low Value,19,San Antonio,True
+CUST_0857,2023-03-20,Low Value,31,San Diego,True
+CUST_0858,2022-05-13,High Value,34,San Jose,True
+CUST_0859,2022-03-19,One-time Buyers,19,San Diego,True
+CUST_0860,2023-07-20,Medium Value,42,Phoenix,True
+CUST_0861,2022-01-31,Low Value,29,New York,True
+CUST_0862,2022-11-22,Medium Value,34,Houston,True
+CUST_0863,2022-04-13,High Value,43,Phoenix,True
+CUST_0864,2022-01-14,One-time Buyers,32,Phoenix,True
+CUST_0865,2022-05-20,Low Value,52,San Diego,True
+CUST_0866,2024-06-23,One-time Buyers,27,Los Angeles,True
+CUST_0867,2022-05-13,Low Value,26,Houston,True
+CUST_0868,2022-05-14,Low Value,44,Phoenix,True
+CUST_0869,2022-03-24,Low Value,35,San Jose,True
+CUST_0870,2022-01-12,Medium Value,23,Houston,True
+CUST_0871,2022-02-27,High Value,30,San Antonio,True
+CUST_0872,2022-09-19,One-time Buyers,43,Los Angeles,True
+CUST_0873,2022-09-18,Medium Value,54,Dallas,True
+CUST_0874,2022-05-11,Medium Value,36,Houston,True
+CUST_0875,2024-05-28,One-time Buyers,32,Chicago,True
+CUST_0876,2022-07-14,Low Value,46,Phoenix,True
+CUST_0877,2022-03-10,Medium Value,19,Chicago,True
+CUST_0878,2023-08-03,Medium Value,39,Los Angeles,True
+CUST_0879,2022-01-23,Medium Value,18,New York,True
+CUST_0880,2023-06-27,Low Value,37,Chicago,True
+CUST_0881,2022-12-21,Medium Value,43,Phoenix,True
+CUST_0882,2023-09-18,Medium Value,49,San Jose,True
+CUST_0883,2022-04-10,Low Value,28,San Jose,True
+CUST_0884,2023-03-12,High Value,34,Phoenix,True
+CUST_0885,2022-06-11,High Value,26,San Diego,True
+CUST_0886,2022-03-18,One-time Buyers,35,Los Angeles,True
+CUST_0887,2022-04-19,Medium Value,43,San Diego,True
+CUST_0888,2023-07-21,Low Value,21,Phoenix,True
+CUST_0889,2022-04-19,Medium Value,49,San Antonio,True
+CUST_0890,2022-03-02,Low Value,23,Phoenix,True
+CUST_0891,2023-11-28,Medium Value,27,Dallas,True
+CUST_0892,2022-11-21,Low Value,52,Dallas,True
+CUST_0893,2022-08-24,High Value,25,San Diego,True
+CUST_0894,2022-09-20,Low Value,41,San Diego,True
+CUST_0895,2022-01-14,One-time Buyers,42,Los Angeles,True
+CUST_0896,2023-01-11,Medium Value,18,San Jose,True
+CUST_0897,2022-02-02,Low Value,58,New York,True
+CUST_0898,2024-03-21,Medium Value,70,San Antonio,True
+CUST_0899,2022-12-25,Low Value,31,Philadelphia,True
+CUST_0900,2022-12-22,One-time Buyers,56,San Jose,True
+CUST_0901,2023-08-17,Low Value,45,Phoenix,True
+CUST_0902,2022-05-08,Medium Value,27,New York,True
+CUST_0903,2024-12-31,Medium Value,40,Los Angeles,True
+CUST_0904,2022-09-05,Low Value,44,Houston,True
+CUST_0905,2022-07-25,One-time Buyers,21,San Jose,True
+CUST_0906,2023-02-02,Low Value,30,San Jose,True
+CUST_0907,2022-01-08,Medium Value,18,New York,True
+CUST_0908,2023-05-25,Low Value,30,Phoenix,True
+CUST_0909,2024-10-20,Low Value,35,San Jose,True
+CUST_0910,2023-08-19,Low Value,27,New York,True
+CUST_0911,2023-04-28,Medium Value,18,Chicago,True
+CUST_0912,2023-08-25,High Value,48,San Diego,True
+CUST_0913,2022-04-22,Medium Value,43,Dallas,True
+CUST_0914,2023-04-23,Low Value,30,San Diego,True
+CUST_0915,2022-10-22,Medium Value,49,Phoenix,True
+CUST_0916,2022-01-04,One-time Buyers,38,Chicago,True
+CUST_0917,2022-01-16,Low Value,18,San Jose,True
+CUST_0918,2022-05-11,Medium Value,39,San Antonio,True
+CUST_0919,2022-05-02,Low Value,27,San Diego,True
+CUST_0920,2023-04-05,High Value,53,Los Angeles,True
+CUST_0921,2022-06-20,Medium Value,21,San Diego,True
+CUST_0922,2022-05-21,High Value,49,Philadelphia,True
+CUST_0923,2022-11-04,One-time Buyers,48,San Antonio,True
+CUST_0924,2022-06-12,Medium Value,52,Philadelphia,True
+CUST_0925,2022-02-02,Low Value,23,Philadelphia,True
+CUST_0926,2024-12-31,Medium Value,23,Los Angeles,True
+CUST_0927,2022-08-08,High Value,32,Chicago,True
+CUST_0928,2023-01-01,Low Value,23,Philadelphia,True
+CUST_0929,2022-05-08,Medium Value,18,San Antonio,True
+CUST_0930,2022-07-17,Medium Value,27,San Diego,True
+CUST_0931,2022-04-12,Medium Value,37,Phoenix,True
+CUST_0932,2022-01-25,Low Value,35,San Antonio,True
+CUST_0933,2024-06-26,High Value,28,Dallas,True
+CUST_0934,2022-10-21,Low Value,31,New York,True
+CUST_0935,2022-04-04,Low Value,44,San Diego,True
+CUST_0936,2022-10-10,Low Value,21,Los Angeles,True
+CUST_0937,2022-04-05,Medium Value,47,Philadelphia,True
+CUST_0938,2022-02-03,One-time Buyers,38,Phoenix,True
+CUST_0939,2024-05-18,Medium Value,41,Philadelphia,True
+CUST_0940,2022-09-23,Medium Value,39,Los Angeles,True
+CUST_0941,2022-12-08,Low Value,32,San Antonio,True
+CUST_0942,2022-03-29,Low Value,34,Dallas,True
+CUST_0943,2024-08-06,Medium Value,48,New York,True
+CUST_0944,2022-12-01,Medium Value,30,Dallas,True
+CUST_0945,2022-02-02,One-time Buyers,34,San Diego,True
+CUST_0946,2023-02-18,High Value,32,San Antonio,True
+CUST_0947,2022-06-20,One-time Buyers,29,New York,True
+CUST_0948,2022-01-03,Low Value,18,Houston,True
+CUST_0949,2022-10-13,Low Value,19,Dallas,True
+CUST_0950,2022-01-29,Low Value,43,Philadelphia,True
+CUST_0951,2023-09-22,Medium Value,25,San Jose,True
+CUST_0952,2022-03-27,Medium Value,26,San Diego,True
+CUST_0953,2022-07-04,High Value,43,San Diego,True
+CUST_0954,2022-01-26,Low Value,52,New York,True
+CUST_0955,2023-07-01,One-time Buyers,40,Houston,True
+CUST_0956,2022-08-24,One-time Buyers,40,Phoenix,True
+CUST_0957,2022-10-15,Medium Value,45,Dallas,True
+CUST_0958,2022-01-22,Low Value,45,Chicago,True
+CUST_0959,2024-01-31,Medium Value,47,Phoenix,True
+CUST_0960,2022-05-18,Medium Value,63,San Diego,True
+CUST_0961,2022-11-26,One-time Buyers,32,San Diego,True
+CUST_0962,2022-03-27,Low Value,52,Los Angeles,True
+CUST_0963,2022-06-17,Low Value,58,New York,True
+CUST_0964,2022-01-20,One-time Buyers,25,San Jose,True
+CUST_0965,2022-04-14,Low Value,30,Houston,True
+CUST_0966,2022-07-29,Medium Value,34,Chicago,True
+CUST_0967,2022-07-22,High Value,29,Phoenix,True
+CUST_0968,2022-04-01,Low Value,52,Dallas,True
+CUST_0969,2022-02-22,Medium Value,44,New York,True
+CUST_0970,2022-12-13,Low Value,39,Dallas,True
+CUST_0971,2022-04-13,High Value,21,San Antonio,True
+CUST_0972,2022-08-19,Low Value,25,Los Angeles,True
+CUST_0973,2022-05-11,Medium Value,40,Houston,True
+CUST_0974,2024-01-06,Medium Value,41,Los Angeles,True
+CUST_0975,2022-04-29,One-time Buyers,36,San Diego,True
+CUST_0976,2023-09-20,One-time Buyers,18,Los Angeles,True
+CUST_0977,2022-05-30,High Value,37,Chicago,True
+CUST_0978,2023-08-11,Medium Value,70,San Diego,True
+CUST_0979,2023-06-30,Low Value,40,Phoenix,True
+CUST_0980,2022-10-10,Medium Value,42,Dallas,True
+CUST_0981,2022-12-02,Medium Value,41,Phoenix,True
+CUST_0982,2022-02-07,Medium Value,23,San Antonio,True
+CUST_0983,2022-01-01,Medium Value,46,San Diego,True
+CUST_0984,2022-02-22,Low Value,46,San Diego,True
+CUST_0985,2022-01-06,High Value,26,Houston,True
+CUST_0986,2022-03-17,High Value,19,San Diego,True
+CUST_0987,2022-10-08,Low Value,18,Dallas,True
+CUST_0988,2024-08-22,Medium Value,28,Chicago,True
+CUST_0989,2022-09-02,Low Value,18,San Antonio,True
+CUST_0990,2022-12-24,Low Value,18,Houston,True
+CUST_0991,2022-02-26,Low Value,18,San Jose,True
+CUST_0992,2022-10-27,One-time Buyers,35,Dallas,True
+CUST_0993,2022-02-06,Low Value,23,Chicago,True
+CUST_0994,2022-02-16,Medium Value,38,Los Angeles,True
+CUST_0995,2022-03-11,Low Value,45,Phoenix,True
+CUST_0996,2022-08-01,Medium Value,32,San Antonio,True
+CUST_0997,2022-01-06,Medium Value,66,Philadelphia,True
+CUST_0998,2022-12-17,Low Value,21,Dallas,True
+CUST_0999,2022-01-04,Medium Value,38,Phoenix,True
+CUST_1000,2023-06-01,Low Value,56,New York,True
+CUST_1001,2022-07-19,Low Value,48,Phoenix,True
+CUST_1002,2022-03-02,Medium Value,27,Phoenix,True
+CUST_1003,2023-10-05,One-time Buyers,25,San Jose,True
+CUST_1004,2023-05-04,Medium Value,34,San Jose,True
+CUST_1005,2022-03-10,One-time Buyers,45,San Diego,True
+CUST_1006,2022-01-21,One-time Buyers,18,Chicago,True
+CUST_1007,2022-01-24,Low Value,49,San Diego,True
+CUST_1008,2024-12-31,Medium Value,29,Dallas,True
+CUST_1009,2022-04-27,Low Value,27,San Diego,True
+CUST_1010,2022-01-22,Medium Value,20,Philadelphia,True
+CUST_1011,2022-07-07,Medium Value,45,Philadelphia,True
+CUST_1012,2022-01-03,Low Value,50,Dallas,True
+CUST_1013,2022-11-22,Medium Value,32,Dallas,True
+CUST_1014,2023-03-21,Low Value,34,San Antonio,True
+CUST_1015,2022-01-21,Low Value,40,San Diego,True
+CUST_1016,2023-02-22,Low Value,52,Philadelphia,True
+CUST_1017,2022-08-07,Low Value,39,Houston,True
+CUST_1018,2023-02-11,Low Value,24,Houston,True
+CUST_1019,2022-03-07,Medium Value,38,San Jose,True
+CUST_1020,2023-03-03,One-time Buyers,40,San Antonio,True
+CUST_1021,2022-11-15,Low Value,37,Houston,True
+CUST_1022,2022-02-21,Low Value,46,San Antonio,True
+CUST_1023,2023-01-14,Medium Value,24,New York,True
+CUST_1024,2022-03-24,Medium Value,27,Philadelphia,True
+CUST_1025,2022-06-15,Medium Value,35,San Diego,True
+CUST_1026,2022-01-25,Medium Value,45,San Antonio,True
+CUST_1027,2022-05-25,Low Value,41,San Antonio,True
+CUST_1028,2022-04-06,Low Value,47,Chicago,True
+CUST_1029,2022-04-02,Low Value,37,San Diego,True
+CUST_1030,2022-04-05,Medium Value,41,New York,True
+CUST_1031,2022-12-22,Medium Value,40,Chicago,True
+CUST_1032,2022-11-22,Medium Value,18,Dallas,True
+CUST_1033,2023-03-28,Low Value,26,San Jose,True
+CUST_1034,2022-12-27,High Value,41,Philadelphia,True
+CUST_1035,2022-06-19,Medium Value,39,Los Angeles,True
+CUST_1036,2022-11-26,High Value,18,San Diego,True
+CUST_1037,2023-11-16,Medium Value,31,Los Angeles,True
+CUST_1038,2024-12-31,One-time Buyers,43,Dallas,True
+CUST_1039,2023-07-14,Low Value,40,San Diego,True
+CUST_1040,2022-01-30,High Value,18,New York,True
+CUST_1041,2022-04-29,One-time Buyers,44,Chicago,True
+CUST_1042,2024-12-31,One-time Buyers,42,San Antonio,True
+CUST_1043,2022-01-13,Medium Value,22,Chicago,True
+CUST_1044,2022-05-15,High Value,32,Los Angeles,True
+CUST_1045,2022-09-08,Low Value,47,San Diego,True
+CUST_1046,2022-01-05,Medium Value,19,Phoenix,True
+CUST_1047,2022-10-21,Low Value,39,Philadelphia,True
+CUST_1048,2022-10-21,Low Value,48,San Jose,True
+CUST_1049,2022-09-23,One-time Buyers,36,San Antonio,True
+CUST_1050,2022-06-25,Low Value,35,Los Angeles,True
+CUST_1051,2022-05-28,Low Value,40,Philadelphia,True
+CUST_1052,2024-03-05,One-time Buyers,18,Dallas,True
+CUST_1053,2022-08-14,Medium Value,42,San Antonio,True
+CUST_1054,2022-01-17,Low Value,45,Philadelphia,True
+CUST_1055,2022-12-03,Medium Value,22,San Diego,True
+CUST_1056,2022-02-24,One-time Buyers,52,Dallas,True
+CUST_1057,2022-12-19,Low Value,47,New York,True
+CUST_1058,2022-02-20,Medium Value,51,San Jose,True
+CUST_1059,2022-10-02,Low Value,41,Los Angeles,True
+CUST_1060,2022-11-27,Medium Value,24,Houston,True
+CUST_1061,2022-02-25,Low Value,53,Phoenix,True
+CUST_1062,2023-05-03,Low Value,45,Houston,True
+CUST_1063,2022-08-19,One-time Buyers,18,Los Angeles,True
+CUST_1064,2022-09-13,Medium Value,31,San Antonio,True
+CUST_1065,2024-02-02,Medium Value,56,Los Angeles,True
+CUST_1066,2022-01-17,Medium Value,53,Los Angeles,True
+CUST_1067,2022-06-15,High Value,37,San Diego,True
+CUST_1068,2023-10-06,One-time Buyers,25,Chicago,True
+CUST_1069,2022-03-13,Low Value,42,Phoenix,True
+CUST_1070,2023-05-02,Medium Value,25,New York,True
+CUST_1071,2022-01-10,One-time Buyers,38,New York,True
+CUST_1072,2022-07-07,One-time Buyers,44,Philadelphia,True
+CUST_1073,2022-01-20,Low Value,28,New York,True
+CUST_1074,2023-05-25,One-time Buyers,32,Phoenix,True
+CUST_1075,2024-04-14,One-time Buyers,32,Philadelphia,True
+CUST_1076,2022-03-13,High Value,26,Philadelphia,True
+CUST_1077,2022-07-09,Medium Value,29,San Antonio,True
+CUST_1078,2022-02-17,Medium Value,31,Chicago,True
+CUST_1079,2023-03-04,One-time Buyers,34,Houston,True
+CUST_1080,2023-04-26,Medium Value,40,Dallas,True
+CUST_1081,2022-04-17,Medium Value,29,San Antonio,True
+CUST_1082,2022-05-12,Medium Value,30,San Jose,True
+CUST_1083,2022-01-20,Low Value,42,Chicago,True
+CUST_1084,2022-05-06,High Value,28,Chicago,True
+CUST_1085,2022-02-20,One-time Buyers,34,Chicago,True
+CUST_1086,2022-09-06,Medium Value,24,Los Angeles,True
+CUST_1087,2022-02-14,Low Value,37,San Jose,True
+CUST_1088,2022-10-21,High Value,67,San Antonio,True
+CUST_1089,2022-07-20,Medium Value,34,San Jose,True
+CUST_1090,2023-06-03,Medium Value,25,Houston,True
+CUST_1091,2022-06-12,High Value,55,San Diego,True
+CUST_1092,2022-11-27,Low Value,31,San Jose,True
+CUST_1093,2023-08-18,Low Value,39,Chicago,True
+CUST_1094,2024-12-31,Low Value,18,Houston,True
+CUST_1095,2022-05-20,One-time Buyers,34,San Diego,True
+CUST_1096,2022-07-23,Low Value,18,Phoenix,True
+CUST_1097,2023-07-01,Medium Value,46,San Diego,True
+CUST_1098,2022-04-30,Medium Value,30,Phoenix,True
+CUST_1099,2023-03-08,Medium Value,32,New York,True
+CUST_1100,2022-02-27,One-time Buyers,31,San Diego,True
+CUST_1101,2022-09-17,Low Value,61,Phoenix,True
+CUST_1102,2022-08-30,Medium Value,33,Dallas,True
+CUST_1103,2022-11-22,Medium Value,37,Chicago,True
+CUST_1104,2022-04-08,Medium Value,21,Los Angeles,True
+CUST_1105,2022-03-02,Medium Value,28,San Diego,True
+CUST_1106,2024-11-17,One-time Buyers,45,Philadelphia,True
+CUST_1107,2022-02-16,Low Value,49,San Jose,True
+CUST_1108,2022-01-28,Medium Value,28,Phoenix,True
+CUST_1109,2023-07-14,Low Value,28,San Antonio,True
+CUST_1110,2022-03-16,Low Value,40,Phoenix,True
+CUST_1111,2023-09-14,Medium Value,24,San Diego,True
+CUST_1112,2023-09-06,High Value,24,Phoenix,True
+CUST_1113,2022-10-24,Low Value,27,Houston,True
+CUST_1114,2022-05-10,Medium Value,40,San Antonio,True
+CUST_1115,2022-07-19,High Value,23,San Diego,True
+CUST_1116,2023-12-19,Medium Value,26,Los Angeles,True
+CUST_1117,2022-07-08,Medium Value,27,Houston,True
+CUST_1118,2022-06-18,Medium Value,40,San Antonio,True
+CUST_1119,2024-12-31,Low Value,28,San Jose,True
+CUST_1120,2022-02-26,Low Value,51,Philadelphia,True
+CUST_1121,2022-03-10,High Value,36,San Jose,True
+CUST_1122,2023-12-26,Low Value,18,Phoenix,True
+CUST_1123,2022-07-28,Low Value,18,Phoenix,True
+CUST_1124,2022-02-22,Low Value,55,New York,True
+CUST_1125,2022-06-28,High Value,28,San Antonio,True
+CUST_1126,2022-04-09,Low Value,38,Phoenix,True
+CUST_1127,2022-05-24,Medium Value,29,New York,True
+CUST_1128,2022-02-10,Low Value,50,San Jose,True
+CUST_1129,2022-03-23,Low Value,43,New York,True
+CUST_1130,2022-05-27,One-time Buyers,57,San Jose,True
+CUST_1131,2022-01-06,High Value,36,San Diego,True
+CUST_1132,2022-03-22,Low Value,50,Phoenix,True
+CUST_1133,2022-01-10,Medium Value,36,Houston,True
+CUST_1134,2022-04-03,One-time Buyers,38,San Jose,True
+CUST_1135,2022-12-07,Low Value,45,Philadelphia,True
+CUST_1136,2023-10-11,One-time Buyers,29,Houston,True
+CUST_1137,2022-04-08,Low Value,45,Houston,True
+CUST_1138,2022-04-23,One-time Buyers,52,San Jose,True
+CUST_1139,2022-01-25,Medium Value,18,Phoenix,True
+CUST_1140,2023-06-24,Medium Value,30,Chicago,True
+CUST_1141,2022-03-03,One-time Buyers,42,Los Angeles,True
+CUST_1142,2022-01-30,High Value,32,New York,True
+CUST_1143,2022-09-29,Medium Value,36,Phoenix,True
+CUST_1144,2022-07-11,Medium Value,18,San Diego,True
+CUST_1145,2023-02-22,Low Value,40,New York,True
+CUST_1146,2023-05-26,One-time Buyers,53,San Jose,True
+CUST_1147,2022-01-18,Low Value,23,Philadelphia,True
+CUST_1148,2023-10-10,Medium Value,55,Chicago,True
+CUST_1149,2023-12-21,One-time Buyers,48,Los Angeles,True
+CUST_1150,2022-03-05,Medium Value,21,Phoenix,True
+CUST_1151,2022-05-06,Medium Value,49,Philadelphia,True
+CUST_1152,2023-02-03,High Value,31,San Antonio,True
+CUST_1153,2022-04-12,Low Value,18,Chicago,True
+CUST_1154,2022-06-20,Low Value,34,Houston,True
+CUST_1155,2022-02-07,Medium Value,45,Chicago,True
+CUST_1156,2023-02-01,Medium Value,36,Dallas,True
+CUST_1157,2024-03-15,Low Value,38,Philadelphia,True
+CUST_1158,2023-11-17,Low Value,50,Dallas,True
+CUST_1159,2022-04-29,Medium Value,33,Dallas,True
+CUST_1160,2022-07-07,Low Value,36,Phoenix,True
+CUST_1161,2024-12-31,High Value,53,Chicago,True
+CUST_1162,2022-11-19,High Value,42,Phoenix,True
+CUST_1163,2022-02-02,Low Value,38,San Diego,True
+CUST_1164,2024-04-15,Medium Value,20,Phoenix,True
+CUST_1165,2024-12-31,Low Value,18,Philadelphia,True
+CUST_1166,2022-01-17,High Value,24,Los Angeles,True
+CUST_1167,2022-07-03,Low Value,41,San Diego,True
+CUST_1168,2022-09-16,Medium Value,18,Los Angeles,True
+CUST_1169,2023-06-05,Medium Value,33,Chicago,True
+CUST_1170,2022-05-16,Medium Value,50,Houston,True
+CUST_1171,2022-04-30,Low Value,18,San Antonio,True
+CUST_1172,2022-03-17,Low Value,18,Dallas,True
+CUST_1173,2023-05-11,Medium Value,30,Philadelphia,True
+CUST_1174,2022-04-19,Medium Value,48,Los Angeles,True
+CUST_1175,2022-02-07,One-time Buyers,37,San Antonio,True
+CUST_1176,2022-01-10,Low Value,40,New York,True
+CUST_1177,2022-06-07,Medium Value,40,Phoenix,True
+CUST_1178,2022-09-05,One-time Buyers,23,Dallas,True
+CUST_1179,2022-01-22,Low Value,23,Los Angeles,True
+CUST_1180,2024-04-16,Low Value,32,San Diego,True
+CUST_1181,2022-01-24,Low Value,43,Philadelphia,True
+CUST_1182,2023-06-23,Medium Value,18,Phoenix,True
+CUST_1183,2022-10-11,Low Value,18,San Jose,True
+CUST_1184,2022-05-12,High Value,26,San Antonio,True
+CUST_1185,2022-12-04,Medium Value,28,Philadelphia,True
+CUST_1186,2022-03-02,Medium Value,37,Los Angeles,True
+CUST_1187,2023-06-11,Medium Value,33,Houston,True
+CUST_1188,2023-09-27,Medium Value,28,San Diego,True
+CUST_1189,2022-03-20,Low Value,56,New York,True
+CUST_1190,2022-03-16,One-time Buyers,35,San Jose,True
+CUST_1191,2024-03-27,One-time Buyers,37,Dallas,True
+CUST_1192,2022-06-04,Low Value,43,Philadelphia,True
+CUST_1193,2022-08-16,Low Value,26,San Jose,True
+CUST_1194,2023-06-06,Low Value,56,Houston,True
+CUST_1195,2023-06-21,High Value,49,Los Angeles,True
+CUST_1196,2022-05-23,Medium Value,36,San Diego,True
+CUST_1197,2022-03-28,One-time Buyers,34,Phoenix,True
+CUST_1198,2022-04-21,Low Value,49,San Antonio,True
+CUST_1199,2022-04-29,Low Value,33,Los Angeles,True
+CUST_1200,2022-05-08,Low Value,40,Chicago,True
+CUST_1201,2023-05-07,Low Value,33,New York,True
+CUST_1202,2022-04-03,Low Value,41,New York,True
+CUST_1203,2022-01-08,One-time Buyers,54,Phoenix,True
+CUST_1204,2022-02-08,Low Value,47,San Diego,True
+CUST_1205,2022-03-01,One-time Buyers,19,Los Angeles,True
+CUST_1206,2022-08-26,Medium Value,41,Los Angeles,True
+CUST_1207,2022-02-22,Medium Value,31,Houston,True
+CUST_1208,2023-11-16,Low Value,20,Dallas,True
+CUST_1209,2022-05-30,High Value,47,Chicago,True
+CUST_1210,2022-03-21,Medium Value,54,San Antonio,True
+CUST_1211,2023-06-25,High Value,40,San Diego,True
+CUST_1212,2022-06-13,One-time Buyers,30,Philadelphia,True
+CUST_1213,2022-01-13,High Value,18,Dallas,True
+CUST_1214,2022-09-20,High Value,50,San Antonio,True
+CUST_1215,2023-04-10,High Value,33,San Jose,True
+CUST_1216,2022-06-02,Low Value,34,Chicago,True
+CUST_1217,2022-08-24,One-time Buyers,46,San Antonio,True
+CUST_1218,2023-12-05,Medium Value,22,Los Angeles,True
+CUST_1219,2022-08-28,Medium Value,33,San Diego,True
+CUST_1220,2023-05-07,Low Value,27,San Jose,True
+CUST_1221,2022-03-18,Medium Value,33,San Antonio,True
+CUST_1222,2023-09-06,Medium Value,24,Phoenix,True
+CUST_1223,2022-03-13,High Value,18,New York,True
+CUST_1224,2022-05-31,Medium Value,30,Philadelphia,True
+CUST_1225,2022-02-22,Low Value,50,Houston,True
+CUST_1226,2022-02-20,Low Value,38,San Diego,True
+CUST_1227,2022-04-04,High Value,21,San Diego,True
+CUST_1228,2022-01-18,Low Value,18,Houston,True
+CUST_1229,2022-05-30,High Value,23,Philadelphia,True
+CUST_1230,2022-04-01,Low Value,42,Los Angeles,True
+CUST_1231,2023-11-10,One-time Buyers,22,Philadelphia,True
+CUST_1232,2022-03-24,Medium Value,25,Dallas,True
+CUST_1233,2023-06-09,Low Value,46,Philadelphia,True
+CUST_1234,2022-02-20,Medium Value,41,New York,True
+CUST_1235,2022-05-15,Low Value,20,San Antonio,True
+CUST_1236,2024-12-31,High Value,45,Phoenix,True
+CUST_1237,2024-12-31,Medium Value,45,Houston,True
+CUST_1238,2022-04-13,One-time Buyers,56,Los Angeles,True
+CUST_1239,2022-10-17,Medium Value,18,San Diego,True
+CUST_1240,2022-09-07,Medium Value,18,Los Angeles,True
+CUST_1241,2022-03-09,One-time Buyers,37,Houston,True
+CUST_1242,2022-09-01,Low Value,40,San Jose,True
+CUST_1243,2022-01-05,Low Value,23,New York,True
+CUST_1244,2022-03-29,Low Value,26,New York,True
+CUST_1245,2022-02-02,One-time Buyers,45,Philadelphia,True
+CUST_1246,2022-12-05,Medium Value,40,Houston,True
+CUST_1247,2022-10-05,Low Value,43,Chicago,True
+CUST_1248,2022-04-07,Medium Value,56,San Jose,True
+CUST_1249,2022-03-18,Low Value,22,Houston,True
+CUST_1250,2023-02-17,Low Value,44,Los Angeles,True
+CUST_1251,2022-01-19,Medium Value,38,Dallas,True
+CUST_1252,2022-01-14,Low Value,23,Houston,True
+CUST_1253,2022-05-06,Low Value,44,San Jose,True
+CUST_1254,2022-07-07,Medium Value,34,Houston,True
+CUST_1255,2022-01-26,High Value,22,Houston,True
+CUST_1256,2022-02-27,Low Value,57,Philadelphia,True
+CUST_1257,2022-11-24,Medium Value,37,Chicago,True
+CUST_1258,2022-07-28,Low Value,46,San Jose,True
+CUST_1259,2022-01-29,High Value,18,New York,True
+CUST_1260,2022-06-06,One-time Buyers,47,Phoenix,True
+CUST_1261,2023-01-12,High Value,37,Chicago,True
+CUST_1262,2023-11-23,Low Value,18,Chicago,True
+CUST_1263,2022-12-05,Low Value,39,Dallas,True
+CUST_1264,2022-01-01,Medium Value,36,Phoenix,True
+CUST_1265,2022-03-15,Medium Value,49,Chicago,True
+CUST_1266,2022-01-05,Low Value,52,Los Angeles,True
+CUST_1267,2022-04-28,Low Value,42,New York,True
+CUST_1268,2022-02-13,Medium Value,58,Chicago,True
+CUST_1269,2023-06-19,High Value,37,New York,True
+CUST_1270,2022-06-04,High Value,42,Philadelphia,True
+CUST_1271,2023-03-30,Low Value,24,Houston,True
+CUST_1272,2022-01-04,Medium Value,51,San Jose,True
+CUST_1273,2023-07-26,Low Value,35,Philadelphia,True
+CUST_1274,2022-01-27,Low Value,41,New York,True
+CUST_1275,2022-05-24,Low Value,18,Chicago,True
+CUST_1276,2022-01-30,Medium Value,53,Phoenix,True
+CUST_1277,2022-01-31,Medium Value,52,New York,True
+CUST_1278,2024-12-31,One-time Buyers,18,Chicago,True
+CUST_1279,2023-05-18,Low Value,20,San Antonio,True
+CUST_1280,2022-12-01,Medium Value,22,Dallas,True
+CUST_1281,2022-04-24,Low Value,39,Los Angeles,True
+CUST_1282,2022-09-17,High Value,23,Los Angeles,True
+CUST_1283,2022-12-28,Low Value,41,San Diego,True
+CUST_1284,2023-01-29,Medium Value,39,San Diego,True
+CUST_1285,2022-03-03,Low Value,60,Philadelphia,True
+CUST_1286,2022-03-07,Low Value,22,Dallas,True
+CUST_1287,2024-09-19,High Value,34,San Jose,True
+CUST_1288,2022-08-22,Low Value,23,Los Angeles,True
+CUST_1289,2022-01-18,High Value,37,San Diego,True
+CUST_1290,2022-03-21,Low Value,24,Dallas,True
+CUST_1291,2023-05-30,Low Value,34,Houston,True
+CUST_1292,2022-03-29,Low Value,27,San Jose,True
+CUST_1293,2022-10-13,Medium Value,54,New York,True
+CUST_1294,2022-11-04,Medium Value,41,Dallas,True
+CUST_1295,2022-03-05,Medium Value,41,Phoenix,True
+CUST_1296,2023-12-28,Medium Value,56,San Diego,True
+CUST_1297,2022-04-24,High Value,22,New York,True
+CUST_1298,2022-06-01,Low Value,49,New York,True
+CUST_1299,2022-07-01,Low Value,43,San Diego,True
+CUST_1300,2022-02-08,Medium Value,33,San Antonio,True
+CUST_1301,2024-11-11,Low Value,27,San Antonio,True
+CUST_1302,2022-07-31,Medium Value,33,Los Angeles,True
+CUST_1303,2022-11-18,Medium Value,21,San Diego,True
+CUST_1304,2023-10-07,High Value,18,San Diego,True
+CUST_1305,2022-05-27,Medium Value,26,Los Angeles,True
+CUST_1306,2022-01-20,Low Value,58,Los Angeles,True
+CUST_1307,2024-04-26,Low Value,39,Philadelphia,True
+CUST_1308,2022-07-14,Medium Value,36,San Jose,True
+CUST_1309,2022-09-19,Low Value,18,Chicago,True
+CUST_1310,2022-05-30,High Value,22,Los Angeles,True
+CUST_1311,2023-02-02,Medium Value,60,Chicago,True
+CUST_1312,2022-09-16,One-time Buyers,49,Phoenix,True
+CUST_1313,2023-05-03,Medium Value,25,San Jose,True
+CUST_1314,2023-12-17,Low Value,35,San Jose,True
+CUST_1315,2022-04-16,Medium Value,34,Dallas,True
+CUST_1316,2022-09-29,Medium Value,34,Philadelphia,True
+CUST_1317,2024-04-21,High Value,41,San Antonio,True
+CUST_1318,2022-01-26,Low Value,52,San Jose,True
+CUST_1319,2022-10-26,Medium Value,40,Dallas,True
+CUST_1320,2024-04-28,Medium Value,41,Phoenix,True
+CUST_1321,2023-09-17,High Value,40,San Diego,True
+CUST_1322,2024-04-04,Low Value,18,Dallas,True
+CUST_1323,2022-07-16,Low Value,26,San Jose,True
+CUST_1324,2022-11-06,Medium Value,30,San Antonio,True
+CUST_1325,2022-01-17,Medium Value,45,Los Angeles,True
+CUST_1326,2022-03-15,Medium Value,37,Los Angeles,True
+CUST_1327,2022-01-15,Medium Value,40,Dallas,True
+CUST_1328,2022-05-11,Low Value,40,Houston,True
+CUST_1329,2022-08-31,Low Value,40,San Antonio,True
+CUST_1330,2022-10-01,Low Value,48,San Diego,True
+CUST_1331,2024-08-08,Medium Value,62,Houston,True
+CUST_1332,2022-10-22,Medium Value,45,San Antonio,True
+CUST_1333,2022-03-03,Low Value,36,Philadelphia,True
+CUST_1334,2022-08-11,Low Value,27,San Diego,True
+CUST_1335,2022-11-26,Medium Value,33,San Antonio,True
+CUST_1336,2022-03-03,Medium Value,25,San Antonio,True
+CUST_1337,2022-05-27,Medium Value,33,Los Angeles,True
+CUST_1338,2022-07-18,Low Value,28,Philadelphia,True
+CUST_1339,2023-07-03,Medium Value,35,San Antonio,True
+CUST_1340,2022-01-23,High Value,20,Philadelphia,True
+CUST_1341,2022-09-08,Low Value,36,Phoenix,True
+CUST_1342,2022-01-15,One-time Buyers,47,Philadelphia,True
+CUST_1343,2022-01-14,High Value,37,Chicago,True
+CUST_1344,2022-01-14,Low Value,18,San Diego,True
+CUST_1345,2023-07-08,One-time Buyers,29,Los Angeles,True
+CUST_1346,2022-02-10,Medium Value,32,Los Angeles,True
+CUST_1347,2022-08-08,High Value,26,Los Angeles,True
+CUST_1348,2022-12-12,One-time Buyers,19,Los Angeles,True
+CUST_1349,2022-02-16,One-time Buyers,46,San Antonio,True
+CUST_1350,2022-01-02,High Value,18,Los Angeles,True
+CUST_1351,2022-11-05,Low Value,31,Philadelphia,True
+CUST_1352,2022-01-08,Medium Value,18,Chicago,True
+CUST_1353,2022-02-28,Medium Value,53,Dallas,True
+CUST_1354,2022-05-30,Medium Value,42,New York,True
+CUST_1355,2022-01-31,Medium Value,40,San Jose,True
+CUST_1356,2022-08-26,Low Value,28,Dallas,True
+CUST_1357,2024-02-06,Medium Value,32,Dallas,True
+CUST_1358,2023-04-03,Medium Value,30,Philadelphia,True
+CUST_1359,2022-03-24,One-time Buyers,35,Los Angeles,True
+CUST_1360,2022-06-02,Medium Value,35,San Antonio,True
+CUST_1361,2024-12-31,Medium Value,41,Philadelphia,True
+CUST_1362,2023-01-29,Medium Value,28,San Antonio,True
+CUST_1363,2022-09-17,Medium Value,40,New York,True
+CUST_1364,2022-01-19,One-time Buyers,40,Phoenix,True
+CUST_1365,2022-02-15,Low Value,50,San Jose,True
+CUST_1366,2022-08-08,Medium Value,18,Phoenix,True
+CUST_1367,2022-02-13,One-time Buyers,23,Philadelphia,True
+CUST_1368,2022-02-21,High Value,54,Los Angeles,True
+CUST_1369,2023-09-28,One-time Buyers,28,San Jose,True
+CUST_1370,2022-07-18,Low Value,20,Dallas,True
+CUST_1371,2022-05-13,Medium Value,52,Houston,True
+CUST_1372,2022-07-11,Medium Value,57,Chicago,True
+CUST_1373,2022-09-11,Low Value,43,San Diego,True
+CUST_1374,2022-05-12,High Value,25,Houston,True
+CUST_1375,2022-09-06,Low Value,45,Los Angeles,True
+CUST_1376,2023-04-23,Low Value,22,Philadelphia,True
+CUST_1377,2022-10-10,Low Value,21,Dallas,True
+CUST_1378,2022-06-12,Medium Value,34,Philadelphia,True
+CUST_1379,2022-08-05,Low Value,18,Los Angeles,True
+CUST_1380,2022-01-08,Low Value,34,Phoenix,True
+CUST_1381,2024-05-01,Low Value,33,San Jose,True
+CUST_1382,2022-10-22,High Value,19,Houston,True
+CUST_1383,2022-06-06,Low Value,46,San Antonio,True
+CUST_1384,2022-01-07,Medium Value,35,Dallas,True
+CUST_1385,2022-09-16,One-time Buyers,37,San Jose,True
+CUST_1386,2022-06-18,Low Value,45,San Jose,True
+CUST_1387,2024-01-03,Low Value,19,Dallas,True
+CUST_1388,2022-03-08,Medium Value,38,New York,True
+CUST_1389,2022-04-20,Medium Value,60,San Jose,True
+CUST_1390,2022-10-14,Medium Value,50,Phoenix,True
+CUST_1391,2022-01-28,High Value,35,New York,True
+CUST_1392,2022-04-10,Medium Value,19,Chicago,True
+CUST_1393,2023-05-17,Medium Value,47,Phoenix,True
+CUST_1394,2022-01-07,One-time Buyers,42,Phoenix,True
+CUST_1395,2023-10-14,Medium Value,62,Philadelphia,True
+CUST_1396,2022-12-07,Low Value,18,Philadelphia,True
+CUST_1397,2024-12-31,One-time Buyers,23,New York,True
+CUST_1398,2022-01-16,One-time Buyers,47,Chicago,True
+CUST_1399,2023-11-15,Medium Value,25,Chicago,True
+CUST_1400,2023-08-11,High Value,26,San Jose,True
+CUST_1401,2022-12-04,Low Value,44,San Antonio,True
+CUST_1402,2022-04-23,Low Value,25,Los Angeles,True
+CUST_1403,2022-03-12,Medium Value,35,Chicago,True
+CUST_1404,2022-04-19,One-time Buyers,36,New York,True
+CUST_1405,2023-03-12,Low Value,23,Los Angeles,True
+CUST_1406,2023-01-28,Low Value,31,Dallas,True
+CUST_1407,2022-03-11,Low Value,18,Houston,True
+CUST_1408,2022-11-07,Medium Value,35,San Antonio,True
+CUST_1409,2022-03-21,Low Value,18,San Antonio,True
+CUST_1410,2023-04-04,Medium Value,27,San Diego,True
+CUST_1411,2022-05-19,One-time Buyers,40,Philadelphia,True
+CUST_1412,2022-03-02,Low Value,38,Chicago,True
+CUST_1413,2022-05-22,One-time Buyers,29,Philadelphia,True
+CUST_1414,2022-02-04,Medium Value,32,Phoenix,True
+CUST_1415,2022-04-25,Medium Value,38,Philadelphia,True
+CUST_1416,2023-08-11,Medium Value,37,San Jose,True
+CUST_1417,2023-03-11,One-time Buyers,40,San Jose,True
+CUST_1418,2022-12-11,One-time Buyers,25,Los Angeles,True
+CUST_1419,2022-07-28,Medium Value,36,New York,True
+CUST_1420,2022-04-23,High Value,61,Chicago,True
+CUST_1421,2023-08-16,Low Value,49,Chicago,True
+CUST_1422,2023-05-17,Low Value,19,San Jose,True
+CUST_1423,2022-04-23,One-time Buyers,47,New York,True
+CUST_1424,2022-03-29,Low Value,45,Los Angeles,True
+CUST_1425,2022-02-25,One-time Buyers,35,Phoenix,True
+CUST_1426,2023-07-22,Medium Value,33,San Diego,True
+CUST_1427,2022-02-25,Medium Value,37,San Antonio,True
+CUST_1428,2023-01-18,Medium Value,49,San Diego,True
+CUST_1429,2022-10-06,Low Value,50,San Jose,True
+CUST_1430,2023-01-06,Low Value,33,San Diego,True
+CUST_1431,2023-07-02,High Value,49,San Antonio,True
+CUST_1432,2023-09-27,Medium Value,47,Phoenix,True
+CUST_1433,2022-02-05,Low Value,46,Houston,True
+CUST_1434,2024-09-03,High Value,32,Dallas,True
+CUST_1435,2022-10-27,Low Value,24,Los Angeles,True
+CUST_1436,2022-04-17,One-time Buyers,24,Philadelphia,True
+CUST_1437,2022-05-30,Low Value,40,San Antonio,True
+CUST_1438,2022-05-13,Medium Value,35,Los Angeles,True
+CUST_1439,2022-08-09,Medium Value,47,Phoenix,True
+CUST_1440,2022-08-01,Low Value,33,San Jose,True
+CUST_1441,2024-12-31,High Value,32,San Diego,True
+CUST_1442,2022-09-29,Low Value,33,Dallas,True
+CUST_1443,2022-06-14,Medium Value,27,Phoenix,True
+CUST_1444,2022-11-10,Low Value,41,New York,True
+CUST_1445,2022-07-03,Medium Value,45,Houston,True
+CUST_1446,2022-04-27,Low Value,25,San Antonio,True
+CUST_1447,2024-12-31,Low Value,44,San Jose,True
+CUST_1448,2022-01-17,Medium Value,33,New York,True
+CUST_1449,2022-06-12,Medium Value,26,New York,True
+CUST_1450,2022-01-21,High Value,41,Houston,True
+CUST_1451,2024-03-03,Low Value,23,Phoenix,True
+CUST_1452,2022-05-09,Low Value,32,Houston,True
+CUST_1453,2022-10-19,Medium Value,27,Chicago,True
+CUST_1454,2024-12-31,High Value,38,Phoenix,True
+CUST_1455,2022-01-17,Medium Value,50,Phoenix,True
+CUST_1456,2022-06-26,Medium Value,29,Philadelphia,True
+CUST_1457,2022-08-02,Low Value,38,Los Angeles,True
+CUST_1458,2024-12-31,Medium Value,34,New York,True
+CUST_1459,2022-03-27,Low Value,37,San Diego,True
+CUST_1460,2022-01-31,One-time Buyers,35,San Antonio,True
+CUST_1461,2022-05-08,Low Value,42,Chicago,True
+CUST_1462,2023-06-12,Medium Value,28,Chicago,True
+CUST_1463,2022-04-21,High Value,25,San Antonio,True
+CUST_1464,2022-03-04,High Value,25,Dallas,True
+CUST_1465,2022-04-14,Low Value,18,Houston,True
+CUST_1466,2023-12-09,One-time Buyers,20,Dallas,True
+CUST_1467,2022-05-01,Medium Value,33,Dallas,True
+CUST_1468,2022-04-26,Medium Value,31,Philadelphia,True
+CUST_1469,2023-04-04,Medium Value,38,Los Angeles,True
+CUST_1470,2022-01-22,High Value,24,San Antonio,True
+CUST_1471,2022-03-05,One-time Buyers,37,New York,True
+CUST_1472,2024-07-22,High Value,50,San Antonio,True
+CUST_1473,2023-08-13,Medium Value,38,New York,True
+CUST_1474,2022-08-04,High Value,32,San Diego,True
+CUST_1475,2024-03-30,Low Value,33,Los Angeles,True
+CUST_1476,2022-04-13,Medium Value,37,Philadelphia,True
+CUST_1477,2022-05-30,Medium Value,20,San Jose,True
+CUST_1478,2022-02-25,Low Value,36,San Antonio,True
+CUST_1479,2022-07-29,Medium Value,42,San Jose,True
+CUST_1480,2022-02-20,Low Value,44,San Antonio,True
+CUST_1481,2022-01-28,Low Value,19,San Antonio,True
+CUST_1482,2022-04-07,High Value,18,Phoenix,True
+CUST_1483,2024-07-10,One-time Buyers,30,Los Angeles,True
+CUST_1484,2022-05-30,Medium Value,33,San Antonio,True
+CUST_1485,2022-02-15,One-time Buyers,30,New York,True
+CUST_1486,2022-05-25,One-time Buyers,38,Philadelphia,True
+CUST_1487,2022-05-06,Low Value,20,Chicago,True
+CUST_1488,2024-04-14,High Value,40,San Jose,True
+CUST_1489,2023-10-18,One-time Buyers,49,San Diego,True
+CUST_1490,2022-05-03,High Value,40,Philadelphia,True
+CUST_1491,2022-10-30,Medium Value,23,Los Angeles,True
+CUST_1492,2023-05-21,Low Value,30,San Antonio,True
+CUST_1493,2022-02-12,Medium Value,27,Los Angeles,True
+CUST_1494,2022-11-05,Medium Value,26,Houston,True
+CUST_1495,2022-12-24,Low Value,48,San Antonio,True
+CUST_1496,2022-07-09,Medium Value,29,San Jose,True
+CUST_1497,2022-03-01,Low Value,50,San Antonio,True
+CUST_1498,2022-12-18,High Value,21,Dallas,True
+CUST_1499,2022-01-18,Medium Value,18,Los Angeles,True
+CUST_1500,2022-01-26,Medium Value,42,San Antonio,True
+CUST_1501,2022-04-17,High Value,34,Phoenix,True
+CUST_1502,2022-04-21,High Value,32,Philadelphia,True
+CUST_1503,2022-02-22,One-time Buyers,38,Houston,True
+CUST_1504,2022-08-31,One-time Buyers,54,Philadelphia,True
+CUST_1505,2022-03-07,Low Value,21,Chicago,True
+CUST_1506,2022-05-05,Low Value,18,Los Angeles,True
+CUST_1507,2023-02-06,One-time Buyers,46,Dallas,True
+CUST_1508,2022-03-31,High Value,37,Los Angeles,True
+CUST_1509,2022-03-19,Medium Value,38,Dallas,True
+CUST_1510,2022-05-06,Medium Value,37,Dallas,True
+CUST_1511,2022-06-26,One-time Buyers,18,Houston,True
+CUST_1512,2022-09-10,One-time Buyers,33,Philadelphia,True
+CUST_1513,2023-05-17,Low Value,25,Philadelphia,True
+CUST_1514,2022-05-16,Low Value,18,Chicago,True
+CUST_1515,2024-04-29,Low Value,51,Houston,True
+CUST_1516,2023-07-14,Low Value,43,Los Angeles,True
+CUST_1517,2022-01-16,Medium Value,55,Chicago,True
+CUST_1518,2023-02-19,Medium Value,23,Phoenix,True
+CUST_1519,2022-10-30,Medium Value,42,Houston,True
+CUST_1520,2022-03-10,Low Value,26,Chicago,True
+CUST_1521,2023-02-19,Medium Value,18,San Jose,True
+CUST_1522,2023-01-12,One-time Buyers,33,Chicago,True
+CUST_1523,2022-06-17,One-time Buyers,46,Los Angeles,True
+CUST_1524,2023-01-04,Low Value,34,Chicago,True
+CUST_1525,2022-06-27,Medium Value,31,San Diego,True
+CUST_1526,2022-01-13,High Value,30,San Diego,True
+CUST_1527,2022-03-25,One-time Buyers,46,San Jose,True
+CUST_1528,2022-02-19,Low Value,40,San Jose,True
+CUST_1529,2022-10-03,Low Value,45,San Diego,True
+CUST_1530,2022-09-13,One-time Buyers,44,San Jose,True
+CUST_1531,2022-11-10,Medium Value,30,San Jose,True
+CUST_1532,2022-09-30,Low Value,25,Philadelphia,True
+CUST_1533,2022-07-12,Medium Value,30,Philadelphia,True
+CUST_1534,2022-01-28,One-time Buyers,45,Chicago,True
+CUST_1535,2023-07-19,Low Value,31,San Diego,True
+CUST_1536,2023-01-03,Medium Value,19,Los Angeles,True
+CUST_1537,2022-10-30,Low Value,28,San Diego,True
+CUST_1538,2022-04-27,High Value,27,San Diego,True
+CUST_1539,2023-08-09,Low Value,26,Phoenix,True
+CUST_1540,2023-01-17,One-time Buyers,57,Phoenix,True
+CUST_1541,2022-08-13,One-time Buyers,27,San Jose,True
+CUST_1542,2022-08-17,Medium Value,39,New York,True
+CUST_1543,2022-10-03,Low Value,30,Philadelphia,True
+CUST_1544,2024-11-16,Low Value,21,Dallas,True
+CUST_1545,2024-02-07,Low Value,41,Los Angeles,True
+CUST_1546,2022-11-26,Medium Value,52,Phoenix,True
+CUST_1547,2022-10-04,Low Value,70,San Diego,True
+CUST_1548,2022-08-08,Medium Value,21,San Diego,True
+CUST_1549,2023-05-06,Medium Value,58,New York,True
+CUST_1550,2022-04-08,Medium Value,25,New York,True
+CUST_1551,2022-05-08,Low Value,18,Philadelphia,True
+CUST_1552,2022-01-12,Low Value,35,Phoenix,True
+CUST_1553,2022-05-03,Medium Value,54,Los Angeles,True
+CUST_1554,2022-01-27,Medium Value,39,Los Angeles,True
+CUST_1555,2022-08-07,One-time Buyers,18,San Jose,True
+CUST_1556,2022-06-18,Medium Value,42,San Jose,True
+CUST_1557,2022-02-03,High Value,29,Dallas,True
+CUST_1558,2022-07-30,Medium Value,42,San Antonio,True
+CUST_1559,2022-01-20,Low Value,23,San Diego,True
+CUST_1560,2022-01-17,High Value,37,San Jose,True
+CUST_1561,2022-02-07,Low Value,34,Dallas,True
+CUST_1562,2022-04-02,Low Value,28,New York,True
+CUST_1563,2022-01-13,Medium Value,61,San Diego,True
+CUST_1564,2022-05-02,Low Value,18,San Jose,True
+CUST_1565,2022-02-03,Medium Value,25,Houston,True
+CUST_1566,2024-10-13,Low Value,31,Philadelphia,True
+CUST_1567,2023-08-24,One-time Buyers,54,San Jose,True
+CUST_1568,2022-10-26,Medium Value,44,San Diego,True
+CUST_1569,2022-07-17,Medium Value,25,Dallas,True
+CUST_1570,2024-02-15,Medium Value,46,Chicago,True
+CUST_1571,2022-07-19,High Value,37,New York,True
+CUST_1572,2022-03-28,Low Value,44,San Diego,True
+CUST_1573,2023-07-28,Medium Value,43,Los Angeles,True
+CUST_1574,2022-01-05,High Value,68,Philadelphia,True
+CUST_1575,2022-05-22,One-time Buyers,26,Los Angeles,True
+CUST_1576,2024-03-19,Low Value,37,Dallas,True
+CUST_1577,2022-02-10,Low Value,52,Chicago,True
+CUST_1578,2023-09-28,Medium Value,40,New York,True
+CUST_1579,2023-11-20,Low Value,23,Houston,True
+CUST_1580,2022-03-09,Medium Value,38,San Diego,True
+CUST_1581,2023-03-05,One-time Buyers,20,San Diego,True
+CUST_1582,2023-02-28,Medium Value,47,Dallas,True
+CUST_1583,2022-03-18,Medium Value,29,Dallas,True
+CUST_1584,2022-07-09,Medium Value,36,San Jose,True
+CUST_1585,2024-12-31,High Value,30,Chicago,True
+CUST_1586,2023-03-16,Medium Value,31,Philadelphia,True
+CUST_1587,2022-09-08,Medium Value,50,Philadelphia,True
+CUST_1588,2022-01-28,One-time Buyers,32,Phoenix,True
+CUST_1589,2024-01-04,Low Value,48,San Antonio,True
+CUST_1590,2024-04-01,High Value,30,San Antonio,True
+CUST_1591,2024-04-30,Low Value,21,Philadelphia,True
+CUST_1592,2022-04-07,One-time Buyers,52,San Jose,True
+CUST_1593,2022-12-29,Medium Value,42,New York,True
+CUST_1594,2022-01-20,Low Value,27,Philadelphia,True
+CUST_1595,2022-04-10,Medium Value,51,Los Angeles,True
+CUST_1596,2022-05-23,One-time Buyers,45,Philadelphia,True
+CUST_1597,2022-06-21,Low Value,32,Los Angeles,True
+CUST_1598,2022-03-16,One-time Buyers,37,Dallas,True
+CUST_1599,2023-02-28,Medium Value,53,San Antonio,True
+CUST_1600,2023-02-11,Medium Value,18,Phoenix,True
+CUST_1601,2022-01-19,Medium Value,32,Phoenix,True
+CUST_1602,2022-05-12,Medium Value,18,San Jose,True
+CUST_1603,2022-01-18,Medium Value,46,Chicago,True
+CUST_1604,2022-10-01,Medium Value,37,Philadelphia,True
+CUST_1605,2022-06-13,Low Value,26,Los Angeles,True
+CUST_1606,2022-01-03,Low Value,54,San Jose,True
+CUST_1607,2022-11-21,Low Value,33,Chicago,True
+CUST_1608,2022-06-13,One-time Buyers,30,Philadelphia,True
+CUST_1609,2023-12-24,Low Value,42,Phoenix,True
+CUST_1610,2023-08-23,Low Value,54,San Antonio,True
+CUST_1611,2022-07-13,Medium Value,39,Chicago,True
+CUST_1612,2022-01-27,Low Value,33,San Jose,True
+CUST_1613,2022-07-16,One-time Buyers,36,Los Angeles,True
+CUST_1614,2023-09-23,Medium Value,26,Phoenix,True
+CUST_1615,2023-06-10,Medium Value,27,Dallas,True
+CUST_1616,2022-08-04,One-time Buyers,36,San Antonio,True
+CUST_1617,2022-07-10,Medium Value,29,Philadelphia,True
+CUST_1618,2022-02-11,Medium Value,44,Chicago,True
+CUST_1619,2023-03-31,Medium Value,18,Dallas,True
+CUST_1620,2022-05-02,Medium Value,33,Los Angeles,True
+CUST_1621,2022-05-07,One-time Buyers,34,San Antonio,True
+CUST_1622,2023-10-28,Medium Value,38,Dallas,True
+CUST_1623,2023-01-07,Medium Value,38,Philadelphia,True
+CUST_1624,2022-03-03,Medium Value,28,New York,True
+CUST_1625,2022-01-07,High Value,29,Philadelphia,True
+CUST_1626,2022-10-07,Medium Value,39,Phoenix,True
+CUST_1627,2022-01-09,Medium Value,39,Chicago,True
+CUST_1628,2022-08-19,Medium Value,38,Houston,True
+CUST_1629,2022-05-28,Medium Value,48,Philadelphia,True
+CUST_1630,2024-09-08,One-time Buyers,18,San Diego,True
+CUST_1631,2022-06-30,Low Value,37,Houston,True
+CUST_1632,2022-04-09,Medium Value,21,Houston,True
+CUST_1633,2024-12-31,Medium Value,36,Chicago,True
+CUST_1634,2022-02-20,High Value,27,Chicago,True
+CUST_1635,2022-08-03,Medium Value,24,Los Angeles,True
+CUST_1636,2022-04-19,High Value,21,Phoenix,True
+CUST_1637,2024-05-18,One-time Buyers,44,Los Angeles,True
+CUST_1638,2022-01-02,One-time Buyers,18,Dallas,True
+CUST_1639,2024-06-08,Low Value,35,Dallas,True
+CUST_1640,2022-03-31,High Value,41,Dallas,True
+CUST_1641,2022-12-21,Medium Value,38,New York,True
+CUST_1642,2022-06-06,Low Value,18,Philadelphia,True
+CUST_1643,2024-12-31,Medium Value,34,San Jose,True
+CUST_1644,2022-03-19,Low Value,49,Chicago,True
+CUST_1645,2022-12-23,Low Value,38,San Jose,True
+CUST_1646,2022-05-20,Low Value,35,San Antonio,True
+CUST_1647,2022-02-26,Low Value,18,Chicago,True
+CUST_1648,2023-04-02,Medium Value,20,Chicago,True
+CUST_1649,2023-04-19,Medium Value,18,Chicago,True
+CUST_1650,2022-03-23,Low Value,45,San Jose,True
+CUST_1651,2022-07-30,Medium Value,36,Chicago,True
+CUST_1652,2024-10-20,Medium Value,61,San Diego,True
+CUST_1653,2023-08-21,Low Value,37,New York,True
+CUST_1654,2022-09-20,One-time Buyers,21,San Antonio,True
+CUST_1655,2022-05-20,Low Value,33,Philadelphia,True
+CUST_1656,2023-08-29,Medium Value,24,Houston,True
+CUST_1657,2024-10-17,Medium Value,44,San Diego,True
+CUST_1658,2022-06-25,One-time Buyers,31,San Jose,True
+CUST_1659,2022-08-13,Medium Value,21,Phoenix,True
+CUST_1660,2022-01-16,Low Value,46,San Diego,True
+CUST_1661,2022-05-27,High Value,18,Houston,True
+CUST_1662,2022-04-27,Medium Value,22,Dallas,True
+CUST_1663,2022-04-22,Medium Value,34,Houston,True
+CUST_1664,2022-09-15,Medium Value,39,Phoenix,True
+CUST_1665,2022-03-24,One-time Buyers,48,San Diego,True
+CUST_1666,2022-01-28,Low Value,46,Houston,True
+CUST_1667,2022-01-20,Low Value,53,Philadelphia,True
+CUST_1668,2023-07-07,Medium Value,42,San Jose,True
+CUST_1669,2023-07-12,High Value,18,San Diego,True
+CUST_1670,2024-07-08,High Value,32,San Diego,True
+CUST_1671,2022-03-08,High Value,49,Phoenix,True
+CUST_1672,2022-02-10,Low Value,18,San Antonio,True
+CUST_1673,2022-03-23,Medium Value,29,Dallas,True
+CUST_1674,2022-03-15,Low Value,18,Dallas,True
+CUST_1675,2022-05-29,Medium Value,27,San Antonio,True
+CUST_1676,2022-04-25,High Value,43,Chicago,True
+CUST_1677,2022-07-31,Medium Value,40,Houston,True
+CUST_1678,2022-05-14,Low Value,39,San Jose,True
+CUST_1679,2022-04-23,Low Value,36,Chicago,True
+CUST_1680,2022-06-07,High Value,30,Phoenix,True
+CUST_1681,2022-12-21,Medium Value,25,New York,True
+CUST_1682,2022-04-15,Low Value,47,San Diego,True
+CUST_1683,2023-01-25,Medium Value,43,Philadelphia,True
+CUST_1684,2024-01-10,Low Value,21,Dallas,True
+CUST_1685,2023-02-23,Medium Value,18,Los Angeles,True
+CUST_1686,2022-05-02,Medium Value,41,Dallas,True
+CUST_1687,2023-10-22,Low Value,58,Los Angeles,True
+CUST_1688,2022-01-16,Low Value,47,Phoenix,True
+CUST_1689,2022-07-23,Medium Value,23,Los Angeles,True
+CUST_1690,2022-04-27,Low Value,28,Chicago,True
+CUST_1691,2022-07-07,Medium Value,39,Phoenix,True
+CUST_1692,2023-03-25,High Value,43,San Diego,True
+CUST_1693,2023-03-15,Low Value,38,Dallas,True
+CUST_1694,2022-09-16,Low Value,25,Chicago,True
+CUST_1695,2022-07-03,Low Value,28,San Antonio,True
+CUST_1696,2022-01-26,Low Value,35,Los Angeles,True
+CUST_1697,2022-04-14,Medium Value,21,Houston,True
+CUST_1698,2023-04-21,Low Value,36,San Diego,True
+CUST_1699,2022-02-03,Medium Value,18,Philadelphia,True
+CUST_1700,2022-11-11,High Value,59,New York,True
+CUST_1701,2023-06-13,One-time Buyers,26,San Antonio,True
+CUST_1702,2022-01-16,High Value,37,New York,True
+CUST_1703,2022-02-13,Medium Value,26,San Antonio,True
+CUST_1704,2022-10-10,One-time Buyers,18,Dallas,True
+CUST_1705,2023-01-07,Low Value,38,Philadelphia,True
+CUST_1706,2022-11-02,Medium Value,28,Houston,True
+CUST_1707,2024-12-31,Medium Value,24,San Antonio,True
+CUST_1708,2022-01-08,One-time Buyers,23,Los Angeles,True
+CUST_1709,2023-01-23,Low Value,40,Philadelphia,True
+CUST_1710,2022-02-11,Low Value,47,Houston,True
+CUST_1711,2024-12-31,Low Value,33,New York,True
+CUST_1712,2022-05-15,High Value,45,Philadelphia,True
+CUST_1713,2022-12-29,Low Value,26,Los Angeles,True
+CUST_1714,2022-07-09,Medium Value,34,Philadelphia,True
+CUST_1715,2022-11-04,One-time Buyers,38,Chicago,True
+CUST_1716,2024-12-14,High Value,18,Chicago,True
+CUST_1717,2022-07-14,Medium Value,51,New York,True
+CUST_1718,2023-01-12,Low Value,21,Phoenix,True
+CUST_1719,2022-04-24,Medium Value,39,San Diego,True
+CUST_1720,2022-10-01,High Value,24,Chicago,True
+CUST_1721,2023-10-27,One-time Buyers,18,San Diego,True
+CUST_1722,2022-11-30,High Value,18,San Diego,True
+CUST_1723,2022-03-26,Low Value,49,San Jose,True
+CUST_1724,2022-03-25,One-time Buyers,31,New York,True
+CUST_1725,2022-03-06,Low Value,41,Los Angeles,True
+CUST_1726,2023-07-11,High Value,43,New York,True
+CUST_1727,2022-05-06,Medium Value,24,Phoenix,True
+CUST_1728,2022-09-19,Low Value,36,Houston,True
+CUST_1729,2022-03-04,Medium Value,48,Chicago,True
+CUST_1730,2022-01-16,High Value,38,Dallas,True
+CUST_1731,2023-05-29,Low Value,21,San Jose,True
+CUST_1732,2022-04-07,Low Value,19,Dallas,True
+CUST_1733,2023-02-03,High Value,49,San Antonio,True
+CUST_1734,2022-12-04,Low Value,57,Los Angeles,True
+CUST_1735,2022-05-11,Medium Value,45,Phoenix,True
+CUST_1736,2022-10-24,One-time Buyers,40,Houston,True
+CUST_1737,2022-02-03,Medium Value,38,Phoenix,True
+CUST_1738,2023-04-02,Low Value,50,Los Angeles,True
+CUST_1739,2023-06-24,Low Value,29,New York,True
+CUST_1740,2022-04-24,Low Value,44,Houston,True
+CUST_1741,2022-01-11,One-time Buyers,20,San Antonio,True
+CUST_1742,2022-02-28,Low Value,38,San Jose,True
+CUST_1743,2022-07-24,Medium Value,40,San Diego,True
+CUST_1744,2023-12-30,Low Value,28,Los Angeles,True
+CUST_1745,2022-11-08,High Value,27,Los Angeles,True
+CUST_1746,2022-09-28,Low Value,29,San Diego,True
+CUST_1747,2022-04-22,Low Value,18,San Jose,True
+CUST_1748,2022-04-14,One-time Buyers,20,Dallas,True
+CUST_1749,2022-05-12,Medium Value,18,New York,True
+CUST_1750,2022-04-03,One-time Buyers,39,Dallas,True
+CUST_1751,2022-02-02,One-time Buyers,43,San Jose,True
+CUST_1752,2024-11-01,Medium Value,38,Houston,True
+CUST_1753,2024-05-24,Medium Value,20,Chicago,True
+CUST_1754,2022-04-19,Medium Value,47,Phoenix,True
+CUST_1755,2022-02-16,High Value,32,San Antonio,True
+CUST_1756,2022-02-15,Low Value,24,New York,True
+CUST_1757,2022-11-06,High Value,29,San Jose,True
+CUST_1758,2022-08-20,Low Value,47,Philadelphia,True
+CUST_1759,2022-12-11,Low Value,18,Houston,True
+CUST_1760,2022-07-02,High Value,44,San Jose,True
+CUST_1761,2022-09-10,One-time Buyers,41,San Antonio,True
+CUST_1762,2024-12-31,Low Value,24,Chicago,True
+CUST_1763,2022-12-15,One-time Buyers,43,Los Angeles,True
+CUST_1764,2023-04-01,High Value,27,Dallas,True
+CUST_1765,2022-05-25,One-time Buyers,22,Philadelphia,True
+CUST_1766,2022-04-22,Medium Value,58,Los Angeles,True
+CUST_1767,2024-04-05,Low Value,39,Dallas,True
+CUST_1768,2022-01-21,Medium Value,42,Dallas,True
+CUST_1769,2023-12-31,Medium Value,51,Dallas,True
+CUST_1770,2023-01-17,Medium Value,45,Dallas,True
+CUST_1771,2022-05-22,High Value,22,Dallas,True
+CUST_1772,2022-03-22,Low Value,39,New York,True
+CUST_1773,2022-06-05,Low Value,24,San Antonio,True
+CUST_1774,2023-12-22,High Value,37,San Diego,True
+CUST_1775,2023-05-29,Medium Value,45,New York,True
+CUST_1776,2024-01-13,One-time Buyers,20,San Antonio,True
+CUST_1777,2023-04-21,Low Value,27,Philadelphia,True
+CUST_1778,2023-05-23,Medium Value,31,Phoenix,True
+CUST_1779,2022-01-28,Medium Value,20,New York,True
+CUST_1780,2024-12-31,Medium Value,56,Philadelphia,True
+CUST_1781,2022-04-10,Low Value,37,Los Angeles,True
+CUST_1782,2022-07-25,One-time Buyers,23,Philadelphia,True
+CUST_1783,2022-06-27,Low Value,47,Houston,True
+CUST_1784,2022-05-15,Medium Value,46,Los Angeles,True
+CUST_1785,2022-01-22,Low Value,41,San Jose,True
+CUST_1786,2022-07-13,One-time Buyers,18,Philadelphia,True
+CUST_1787,2022-06-19,Low Value,40,Chicago,True
+CUST_1788,2022-06-08,One-time Buyers,50,New York,True
+CUST_1789,2022-10-26,Low Value,21,Philadelphia,True
+CUST_1790,2022-01-06,High Value,31,Dallas,True
+CUST_1791,2022-03-22,One-time Buyers,43,Philadelphia,True
+CUST_1792,2022-07-31,Medium Value,24,Chicago,True
+CUST_1793,2024-08-21,Medium Value,52,San Diego,True
+CUST_1794,2022-01-03,High Value,28,San Diego,True
+CUST_1795,2022-09-23,High Value,48,Chicago,True
+CUST_1796,2022-06-14,High Value,18,Chicago,True
+CUST_1797,2022-06-25,Low Value,24,Los Angeles,True
+CUST_1798,2022-09-24,Low Value,44,San Diego,True
+CUST_1799,2022-03-23,Medium Value,48,New York,True
+CUST_1800,2022-03-31,Medium Value,40,Phoenix,True
+CUST_1801,2022-11-28,One-time Buyers,26,Houston,True
+CUST_1802,2022-10-23,Medium Value,18,New York,True
+CUST_1803,2024-12-31,Medium Value,18,Houston,True
+CUST_1804,2024-01-16,Low Value,18,New York,True
+CUST_1805,2022-06-29,Low Value,42,Philadelphia,True
+CUST_1806,2022-03-06,Medium Value,54,Phoenix,True
+CUST_1807,2022-03-26,Medium Value,32,Dallas,True
+CUST_1808,2022-08-17,One-time Buyers,42,San Antonio,True
+CUST_1809,2022-08-23,Low Value,31,Dallas,True
+CUST_1810,2022-10-20,High Value,23,San Diego,True
+CUST_1811,2023-03-28,Medium Value,28,Phoenix,True
+CUST_1812,2024-02-23,Medium Value,29,New York,True
+CUST_1813,2022-06-12,Low Value,24,Houston,True
+CUST_1814,2022-11-26,One-time Buyers,35,Phoenix,True
+CUST_1815,2022-09-22,Medium Value,40,Philadelphia,True
+CUST_1816,2023-01-15,Medium Value,22,New York,True
+CUST_1817,2022-12-02,Low Value,45,Philadelphia,True
+CUST_1818,2022-05-01,High Value,38,Phoenix,True
+CUST_1819,2024-12-31,Medium Value,52,Los Angeles,True
+CUST_1820,2022-03-13,Low Value,26,Philadelphia,True
+CUST_1821,2022-04-10,Medium Value,18,San Antonio,True
+CUST_1822,2023-09-27,High Value,29,San Antonio,True
+CUST_1823,2022-05-06,One-time Buyers,46,San Diego,True
+CUST_1824,2022-02-22,High Value,41,San Antonio,True
+CUST_1825,2022-10-15,Low Value,36,Philadelphia,True
+CUST_1826,2022-05-19,Medium Value,29,Chicago,True
+CUST_1827,2023-05-15,Low Value,41,San Diego,True
+CUST_1828,2023-03-20,Medium Value,33,San Diego,True
+CUST_1829,2023-11-15,Medium Value,27,Philadelphia,True
+CUST_1830,2023-07-24,Low Value,42,Dallas,True
+CUST_1831,2024-07-01,Medium Value,63,Phoenix,True
+CUST_1832,2022-01-06,Low Value,49,Los Angeles,True
+CUST_1833,2022-01-14,One-time Buyers,43,San Antonio,True
+CUST_1834,2023-06-03,Low Value,36,Los Angeles,True
+CUST_1835,2022-08-23,High Value,34,San Antonio,True
+CUST_1836,2022-12-13,High Value,18,San Jose,True
+CUST_1837,2023-03-11,Low Value,20,Chicago,True
+CUST_1838,2022-02-26,Low Value,34,Dallas,True
+CUST_1839,2022-10-12,One-time Buyers,25,Phoenix,True
+CUST_1840,2022-03-29,Low Value,35,Philadelphia,True
+CUST_1841,2023-05-26,Low Value,35,Los Angeles,True
+CUST_1842,2023-02-25,Medium Value,39,Los Angeles,True
+CUST_1843,2022-08-26,High Value,24,Philadelphia,True
+CUST_1844,2023-07-30,Medium Value,36,Phoenix,True
+CUST_1845,2022-02-01,One-time Buyers,32,Phoenix,True
+CUST_1846,2022-02-11,One-time Buyers,30,San Diego,True
+CUST_1847,2022-02-01,Low Value,18,San Jose,True
+CUST_1848,2022-03-21,Low Value,50,San Antonio,True
+CUST_1849,2022-03-22,Low Value,43,Chicago,True
+CUST_1850,2023-08-28,High Value,39,San Diego,True
+CUST_1851,2022-02-10,Low Value,20,Philadelphia,True
+CUST_1852,2023-03-03,Low Value,31,San Diego,True
+CUST_1853,2022-07-31,High Value,42,New York,True
+CUST_1854,2022-05-31,Low Value,35,Philadelphia,True
+CUST_1855,2022-07-23,Low Value,21,San Jose,True
+CUST_1856,2023-06-20,Low Value,18,San Antonio,True
+CUST_1857,2022-05-02,Medium Value,68,Phoenix,True
+CUST_1858,2023-04-19,Medium Value,31,New York,True
+CUST_1859,2022-05-02,Medium Value,31,Los Angeles,True
+CUST_1860,2022-04-20,One-time Buyers,30,San Antonio,True
+CUST_1861,2022-07-05,Medium Value,40,Philadelphia,True
+CUST_1862,2022-05-13,Low Value,18,Dallas,True
+CUST_1863,2024-10-07,Medium Value,18,Chicago,True
+CUST_1864,2022-07-03,Medium Value,26,New York,True
+CUST_1865,2022-03-11,Low Value,52,Chicago,True
+CUST_1866,2022-09-06,Medium Value,29,San Jose,True
+CUST_1867,2023-02-11,Medium Value,38,San Diego,True
+CUST_1868,2023-01-20,Medium Value,32,New York,True
+CUST_1869,2023-12-11,Medium Value,33,Chicago,True
+CUST_1870,2022-01-26,Medium Value,32,Los Angeles,True
+CUST_1871,2024-05-13,Medium Value,34,Houston,True
+CUST_1872,2022-08-25,One-time Buyers,37,Philadelphia,True
+CUST_1873,2022-12-30,Medium Value,45,Philadelphia,True
+CUST_1874,2022-02-06,High Value,20,San Antonio,True
+CUST_1875,2024-12-31,High Value,42,San Jose,True
+CUST_1876,2022-04-18,Low Value,42,New York,True
+CUST_1877,2022-04-11,Medium Value,51,San Jose,True
+CUST_1878,2022-01-25,Low Value,27,Chicago,True
+CUST_1879,2022-02-02,High Value,43,San Diego,True
+CUST_1880,2023-05-01,Low Value,33,Philadelphia,True
+CUST_1881,2022-05-15,Medium Value,28,Philadelphia,True
+CUST_1882,2022-07-20,Low Value,40,San Diego,True
+CUST_1883,2024-05-26,Low Value,49,Los Angeles,True
+CUST_1884,2022-01-20,High Value,63,San Jose,True
+CUST_1885,2022-01-10,Medium Value,45,Chicago,True
+CUST_1886,2023-06-27,High Value,46,Dallas,True
+CUST_1887,2022-04-18,Medium Value,26,Philadelphia,True
+CUST_1888,2022-07-21,Medium Value,18,San Antonio,True
+CUST_1889,2024-12-31,Medium Value,36,Philadelphia,True
+CUST_1890,2023-06-28,High Value,28,Phoenix,True
+CUST_1891,2022-08-13,Low Value,20,Houston,True
+CUST_1892,2022-04-26,Medium Value,37,Los Angeles,True
+CUST_1893,2022-03-12,Low Value,26,New York,True
+CUST_1894,2022-02-17,High Value,46,Chicago,True
+CUST_1895,2022-11-05,Low Value,24,San Diego,True
+CUST_1896,2023-07-08,Medium Value,40,Dallas,True
+CUST_1897,2022-01-23,Medium Value,25,San Antonio,True
+CUST_1898,2022-11-12,One-time Buyers,54,Dallas,True
+CUST_1899,2024-06-05,High Value,25,Los Angeles,True
+CUST_1900,2022-01-16,Medium Value,20,Phoenix,True
+CUST_1901,2022-02-09,Medium Value,18,Phoenix,True
+CUST_1902,2023-05-03,Low Value,21,San Diego,True
+CUST_1903,2022-05-17,Medium Value,22,Houston,True
+CUST_1904,2023-01-04,Low Value,30,San Jose,True
+CUST_1905,2022-05-18,Medium Value,38,Phoenix,True
+CUST_1906,2024-12-31,High Value,25,San Diego,True
+CUST_1907,2022-05-29,Low Value,44,Houston,True
+CUST_1908,2022-02-27,Low Value,36,Los Angeles,True
+CUST_1909,2023-07-10,Medium Value,51,Chicago,True
+CUST_1910,2023-11-05,One-time Buyers,50,Los Angeles,True
+CUST_1911,2022-01-30,One-time Buyers,54,San Diego,True
+CUST_1912,2022-10-07,Low Value,38,Chicago,True
+CUST_1913,2023-04-24,Medium Value,29,San Diego,True
+CUST_1914,2022-02-27,Medium Value,37,Los Angeles,True
+CUST_1915,2022-01-06,Medium Value,48,Philadelphia,True
+CUST_1916,2022-11-23,Low Value,18,Philadelphia,True
+CUST_1917,2022-03-14,Low Value,35,Los Angeles,True
+CUST_1918,2022-01-31,One-time Buyers,49,Dallas,True
+CUST_1919,2022-11-02,Medium Value,42,Dallas,True
+CUST_1920,2022-08-28,High Value,32,Phoenix,True
+CUST_1921,2022-11-14,Low Value,26,Phoenix,True
+CUST_1922,2022-03-07,Low Value,18,Chicago,True
+CUST_1923,2022-09-06,Low Value,44,Chicago,True
+CUST_1924,2022-09-10,Medium Value,46,Philadelphia,True
+CUST_1925,2022-06-19,One-time Buyers,34,Dallas,True
+CUST_1926,2022-05-29,High Value,41,Houston,True
+CUST_1927,2022-04-26,One-time Buyers,27,Los Angeles,True
+CUST_1928,2022-04-22,Low Value,32,Houston,True
+CUST_1929,2022-06-25,Low Value,53,Chicago,True
+CUST_1930,2022-06-25,Medium Value,34,Houston,True
+CUST_1931,2022-05-18,Medium Value,51,San Diego,True
+CUST_1932,2022-08-11,Medium Value,36,New York,True
+CUST_1933,2022-04-05,Low Value,38,Philadelphia,True
+CUST_1934,2022-09-16,Low Value,33,Dallas,True
+CUST_1935,2022-01-09,Low Value,37,San Jose,True
+CUST_1936,2022-05-14,Low Value,63,Philadelphia,True
+CUST_1937,2022-03-06,High Value,33,San Diego,True
+CUST_1938,2022-01-17,Medium Value,41,Dallas,True
+CUST_1939,2023-01-14,High Value,43,Chicago,True
+CUST_1940,2023-02-14,Medium Value,70,San Jose,True
+CUST_1941,2022-03-05,Medium Value,18,Los Angeles,True
+CUST_1942,2022-11-07,Medium Value,31,Los Angeles,True
+CUST_1943,2023-06-07,Low Value,26,Phoenix,True
+CUST_1944,2024-12-31,Medium Value,33,San Antonio,True
+CUST_1945,2023-01-07,Low Value,35,San Diego,True
+CUST_1946,2022-09-10,High Value,32,Dallas,True
+CUST_1947,2024-11-02,One-time Buyers,18,San Antonio,True
+CUST_1948,2022-12-02,One-time Buyers,59,San Antonio,True
+CUST_1949,2022-07-08,High Value,32,San Jose,True
+CUST_1950,2022-09-19,Medium Value,18,Los Angeles,True
+CUST_1951,2022-02-23,Medium Value,50,Chicago,True
+CUST_1952,2022-05-04,Low Value,35,Philadelphia,True
+CUST_1953,2023-12-31,One-time Buyers,43,Los Angeles,True
+CUST_1954,2023-10-24,One-time Buyers,41,San Diego,True
+CUST_1955,2022-08-15,Low Value,61,San Diego,True
+CUST_1956,2023-02-12,Low Value,26,Dallas,True
+CUST_1957,2022-09-07,Medium Value,32,Philadelphia,True
+CUST_1958,2022-12-21,Low Value,25,Chicago,True
+CUST_1959,2022-04-08,One-time Buyers,18,Dallas,True
+CUST_1960,2023-08-07,Medium Value,34,San Jose,True
+CUST_1961,2023-10-05,Low Value,39,Chicago,True
+CUST_1962,2023-10-21,High Value,31,Chicago,True
+CUST_1963,2022-04-24,Medium Value,43,San Antonio,True
+CUST_1964,2022-05-11,High Value,35,Dallas,True
+CUST_1965,2022-06-01,One-time Buyers,30,New York,True
+CUST_1966,2024-01-12,Medium Value,18,Los Angeles,True
+CUST_1967,2022-07-31,Low Value,34,Dallas,True
+CUST_1968,2022-04-02,High Value,38,Chicago,True
+CUST_1969,2022-02-21,Medium Value,42,Phoenix,True
+CUST_1970,2024-04-30,Low Value,18,Chicago,True
+CUST_1971,2022-08-06,One-time Buyers,39,Chicago,True
+CUST_1972,2022-02-06,Low Value,52,Philadelphia,True
+CUST_1973,2022-08-15,High Value,46,Houston,True
+CUST_1974,2022-07-18,One-time Buyers,62,Philadelphia,True
+CUST_1975,2022-08-29,High Value,18,Dallas,True
+CUST_1976,2022-03-05,One-time Buyers,26,Phoenix,True
+CUST_1977,2022-06-06,Low Value,33,Los Angeles,True
+CUST_1978,2022-12-14,Medium Value,30,Phoenix,True
+CUST_1979,2022-04-04,One-time Buyers,25,Houston,True
+CUST_1980,2023-03-13,One-time Buyers,35,Dallas,True
+CUST_1981,2023-06-06,Low Value,37,Phoenix,True
+CUST_1982,2024-02-15,Low Value,35,Chicago,True
+CUST_1983,2022-02-07,Low Value,22,Phoenix,True
+CUST_1984,2022-07-17,Low Value,35,San Jose,True
+CUST_1985,2022-01-04,Low Value,34,Dallas,True
+CUST_1986,2022-05-26,One-time Buyers,18,Los Angeles,True
+CUST_1987,2023-01-12,Medium Value,18,Dallas,True
+CUST_1988,2022-03-15,Medium Value,44,Chicago,True
+CUST_1989,2022-02-11,One-time Buyers,31,San Jose,True
+CUST_1990,2023-03-31,Medium Value,34,San Jose,True
+CUST_1991,2022-01-26,Medium Value,31,Chicago,True
+CUST_1992,2023-05-10,High Value,34,Chicago,True
+CUST_1993,2024-01-11,Low Value,40,San Jose,True
+CUST_1994,2023-04-04,High Value,45,San Jose,True
+CUST_1995,2023-04-27,Low Value,18,Philadelphia,True
+CUST_1996,2023-01-25,Low Value,35,San Jose,True
+CUST_1997,2022-02-20,One-time Buyers,26,New York,True
+CUST_1998,2022-03-04,Low Value,27,New York,True
+CUST_1999,2024-12-31,High Value,47,Los Angeles,True
+CUST_2000,2023-11-27,Low Value,30,New York,True
